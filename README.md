@@ -1,0 +1,2 @@
+# QBAdSDK_iOS
+QBAdSDK for iOS
