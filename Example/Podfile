@@ -1,0 +1,6 @@
+use_frameworks!
+target 'QBAdSDK_iOS_Tests' do
+  pod 'QBAdSDK_iOS', :path => '../'
+  
+  
+end
