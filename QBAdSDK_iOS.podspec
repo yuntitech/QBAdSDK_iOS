@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QBAdSDK_iOS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of QBAdSDK_iOS.'
+  s.summary          = 'QBAdSDK for iOS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,21 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  QBAdSDK for iOS
                        DESC
 
-  s.homepage         = 'https://github.com/9007793/QBAdSDK_iOS'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/yuntitech/QBAdSDK_iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '9007793' => 'leejunhui2015@gmail.com' }
-  s.source           = { :git => 'https://github.com/9007793/QBAdSDK_iOS.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'cenfeng' => 'leejunhui2015@gmail.com' }
+  s.source           = { :git => 'https://github.com/yuntitech/QBAdSDK_iOS', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
 
-  s.source_files = 'QBAdSDK_iOS/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'QBAdSDK_iOS' => ['QBAdSDK_iOS/Assets/*.png']
-  # }
+  s.source_files = 'QBAdSDK_iOS/Classes/**/*.{h,m}'
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  # s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.vendored_libraries  = 'QBAdSDK_iOS/Classes/libquBianSDK.a', 'QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a'
+  s.resources           = 'QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle'
+  s.vendored_frameworks = 'QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework','QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework','QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUFoundation.framework', 'QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework'
+  s.static_framework = true
 end

@@ -1,0 +1,1 @@
+../../../../../QBAdSDK_iOS/Classes/thirdSdkSource/gdt/GDTVideoConfig.h

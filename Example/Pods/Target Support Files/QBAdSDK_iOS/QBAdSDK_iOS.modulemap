@@ -1,0 +1,6 @@
+framework module QBAdSDK_iOS {
+  umbrella header "QBAdSDK_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "QBAdSDK_iOS",
+  "version": "0.1.0",
+  "summary": "QBAdSDK for iOS",
+  "description": "QBAdSDK for iOS",
+  "homepage": "https://github.com/yuntitech/QBAdSDK_iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cenfeng": "leejunhui2015@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yuntitech/QBAdSDK_iOS",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "QBAdSDK_iOS/Classes/**/*.{h,m}",
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "vendored_libraries": [
+    "QBAdSDK_iOS/Classes/libquBianSDK.a",
+    "QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a"
+  ],
+  "resources": "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle",
+  "vendored_frameworks": [
+    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework",
+    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework",
+    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUFoundation.framework",
+    "QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework"
+  ],
+  "static_framework": true
+}
