@@ -31,6 +31,17 @@ typedef NS_ENUM(NSInteger, BUErrorCode) {
     BUErrorCodeNERenderTimoutError= 107,    // native Express ad, render timeout
     BUErrorCodeTempLoadError      = 109,    // native Express ad, template load fail
     
+    
+    BUErrorCodeDynamic_1_JSContextEmpty     =       112,
+    BUErrorCodeDynamic_1_ParseError         =       113,
+    BUErrorCodeDynamic_1_Timeout            =       117,
+    BUErrorCodeDynamic_1_SubComponentNotExist   =   118,
+    
+    BUErrorCodeDynamic_2_ParseError         =       123,
+    BUErrorCodeDynamic_2_Timeout            =       127,
+    BUErrorCodeDynamic_2_SubComponentNotExist   =   128,
+    
+    
     BUErrorCodeDRRenderEngineError = 401,   // native Express ad, engine error
     BUErrorCodeDRRenderContextError = 402,  // native Express ad, context error
     BUErrorCodeDRRenderItemNotExist = 403,  // native Express ad, item not exist

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "KSAdImage.h"
-#import "KSAd.h"
+#import "KSAdInteractionType.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -16,8 +16,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// interaction types supported by ads.
 @property (nonatomic, assign) KSAdInteractionType interactionType;
-
-
 
 /// material pictures.
 @property (nonatomic, strong) NSArray<KSAdImage *> *imageArray;

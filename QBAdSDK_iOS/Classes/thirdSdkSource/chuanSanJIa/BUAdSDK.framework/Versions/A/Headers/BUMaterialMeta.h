@@ -37,6 +37,7 @@ typedef NS_ENUM(NSInteger, BUFeedADMode) {
 @interface BUMaterialMeta : NSObject <NSCoding>
 
 /// interaction types supported by ads.
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, assign) BUInteractionType interactionType;
 
 /// material pictures.
@@ -52,6 +53,7 @@ typedef NS_ENUM(NSInteger, BUFeedADMode) {
 @property (nonatomic, copy) NSString *AdDescription;
 
 /// ad source.
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, copy) NSString *source;
 
 /// text displayed on the creative button.
@@ -61,15 +63,18 @@ typedef NS_ENUM(NSInteger, BUFeedADMode) {
 @property (nonatomic, assign) BUFeedADMode imageMode;
 
 /// Star rating, range from 1 to 5.
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, assign) NSInteger score;
 
 /// Number of comments.
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, assign) NSInteger commentNum;
 
 /// ad installation package size, unit byte.
 @property (nonatomic, assign) NSInteger appSize;
 
 /// video duration
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, assign) NSInteger videoDuration;
 
 /// video url, will be empty string if allowCustomVideoPlayer is NO, contact BD to add to allow list.
@@ -91,6 +96,7 @@ typedef NS_ENUM(NSInteger, BUFeedADMode) {
 @property (nonatomic, strong) BUPersonalizationPrompts *personalPrompts;
 
 /// media configuration parameters.
+/// Please note: This API does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @property (nonatomic, copy) NSDictionary *mediaExt;
 
 /// adx name, if it exists, it is recommended to display this text

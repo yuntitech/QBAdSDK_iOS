@@ -112,5 +112,10 @@
  */
 - (void)adapter_unifiedInterstitialAdViewDidDismissVideoVC:(id<GDTUnifiedinterstitialAdNetworkAdapterProtocol>)adapter;
 
+/**
+ * 插屏激励回调
+ */
+- (void)adapter_unifiedInterstitialAdDidRewardEffective:(id <GDTUnifiedinterstitialAdNetworkAdapterProtocol>)adapter info:(NSDictionary *)info;
+
 @end
 

@@ -84,7 +84,7 @@ typedef NS_ENUM(NSUInteger, BURewardedVideoAdType) {
 - (void)rewardedVideoAd:(BURewardedVideoAd *)rewardedVideoAd didFailWithError:(NSError *_Nullable)error;
 
 /**
- This method is called when cached successfully.
+ This method is called when video cached successfully.
  */
 - (void)rewardedVideoAdVideoDidLoad:(BURewardedVideoAd *)rewardedVideoAd;
 

@@ -123,7 +123,7 @@ typedef NS_ENUM(NSUInteger, BUNativeExpressRewardedVideoAdType) {
 
 @end
 
-
+/// Please note: This Class does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @interface BUNativeExpressRewardedVideoAd : NSObject <BUMopubAdMarkUpDelegate>
 @property (nonatomic, strong) BURewardedVideoModel *rewardedVideoModel;
 @property (nonatomic, weak, nullable) id<BUNativeExpressRewardedVideoAdDelegate> delegate;

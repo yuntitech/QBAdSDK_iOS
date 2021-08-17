@@ -73,7 +73,7 @@ NS_ASSUME_NONNULL_BEGIN
 @end
 
 
-
+/// Please note: This Class does not take effect on Pangle global, only use it when you have traffic from mainland China.
 @interface BUNativeExpressSplashView : UIView <BUMopubAdMarkUpDelegate>
 /**
  The delegate for receiving state change messages.
