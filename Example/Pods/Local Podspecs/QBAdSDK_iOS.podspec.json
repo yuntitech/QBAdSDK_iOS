@@ -1,6 +1,6 @@
 {
   "name": "QBAdSDK_iOS",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "QBAdSDK for iOS",
   "description": "QBAdSDK for iOS",
   "homepage": "https://github.com/yuntitech/QBAdSDK_iOS",
@@ -13,15 +13,12 @@
   },
   "source": {
     "git": "https://github.com/yuntitech/QBAdSDK_iOS",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "11.0"
   },
   "source_files": "QBAdSDK_iOS/Classes/**/*.{h,m}",
-  "user_target_xcconfig": {
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
-  },
   "vendored_libraries": [
     "QBAdSDK_iOS/Classes/libquBianSDK.a",
     "QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a"

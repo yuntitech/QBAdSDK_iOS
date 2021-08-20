@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QBAdSDK_iOS'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'QBAdSDK for iOS'
 
 # This description is used to generate tags and improve search results.
@@ -28,11 +28,9 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'QBAdSDK_iOS/Classes/**/*.{h,m}'
+  s.source_files = 'QBAdSDK_iOS/Classes/**/*.{h,m}' 
 
-  # s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.vendored_libraries  = 'QBAdSDK_iOS/Classes/libquBianSDK.a', 'QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a'
-  s.resources           = 'QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle'
-  s.vendored_frameworks = 'QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework','QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework','QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUFoundation.framework', 'QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework'
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.vendored_libraries  = 'QBAdSDK_iOS/Classes/libquBianSDK.a',
   s.static_framework = true
 end
