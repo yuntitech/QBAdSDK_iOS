@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QBAdSDK_iOS'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'QBAdSDK for iOS'
 
 # This description is used to generate tags and improve search results.
@@ -27,10 +27,14 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/yuntitech/QBAdSDK_iOS', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
+  s.frameworks = 'UIKit', 'MapKit', 'WebKit', 'MediaPlayer', 'CoreLocation', 'AdSupport', 'CoreMedia', 'AVFoundation', 'CoreTelephony', 'StoreKit', 'SystemConfiguration', 'MobileCoreServices', 'CoreMotion', 'Accelerate','AudioToolbox','JavaScriptCore','Security','CoreImage','AudioToolbox','ImageIO','QuartzCore','CoreGraphics','CoreText'
+  s.libraries = 'c++', 'resolv', 'z', 'sqlite3', 'bz2', 'xml2', 'iconv', 'c++abi'
 
   s.source_files = 'QBAdSDK_iOS/Classes/**/*.{h,m}' 
 
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.vendored_libraries  = 'QBAdSDK_iOS/Classes/libquBianSDK.a',
-  s.static_framework = true
+  s.vendored_libraries  = 'QBAdSDK_iOS/Classes/libquBianSDK.a', 'QBAdSDK_iOS/thirdSdkSource/gdt/libGDTMobSDK.a'
+  s.resources           = 'QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle'
+  s.vendored_frameworks = 'QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.framework','QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework','QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUFoundation.framework', 'QBAdSDK_iOS/thirdSdkSource/kusiShou/KSAdSDK.framework'
+
 end

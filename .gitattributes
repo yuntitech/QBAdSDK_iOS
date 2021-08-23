@@ -2,3 +2,9 @@ QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a filter=lfs diff=lfs merge=
 QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework/Versions/A/BUAdSDK filter=lfs diff=lfs merge=lfs -text
 QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework/Versions/A/BUCNAuxiliary filter=lfs diff=lfs merge=lfs -text
 QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework/KSAdSDK filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/kusiShou/KSAdSDK.framework/KSAdSDK filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/gdt/libGDTMobSDK.a filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework/BUCNAuxiliary filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUFoundation.framework/BUFoundation filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.framework/Versions/A/BUAdSDK filter=lfs diff=lfs merge=lfs -text
+QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework/Versions/A/BUCNAuxiliary filter=lfs diff=lfs merge=lfs -text
