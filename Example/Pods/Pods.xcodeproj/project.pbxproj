@@ -25,7 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		35B2137B6C2620B2A300D3FD93A758EF /* PBXContainerItemProxy */ = {
+		69B7422783417A318A3342B10632E862 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -35,293 +35,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0021A32B1550E75DC2C7DF773C094F8E /* BUStaticPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUStaticPlugin.h; sourceTree = "<group>"; };
-		0046593CC9370440B3A388FA8861E8C6 /* BU_SDImageGIFCoderInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageGIFCoderInternal.h; sourceTree = "<group>"; };
-		007476FFAE6C2C6531F50E747AE5CDEC /* BU_SDWebImageCompat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageCompat.h; sourceTree = "<group>"; };
-		00BE65BD1CB5D7DC3F037BED7AA52A06 /* KSCUFeedPageScrollViewDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUFeedPageScrollViewDelegate.h; sourceTree = "<group>"; };
-		01B87B6B1A8BB87F29A85D19EC7D2217 /* HeimdallrBUEmbed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HeimdallrBUEmbed.h; sourceTree = "<group>"; };
-		049CCDC8E92110312B2569B6A971871E /* KSSplashAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSSplashAdView.h; sourceTree = "<group>"; };
-		049DB3F4EAFE6E9B30A0F1F1DEC395F4 /* BUCNAuxiliary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUCNAuxiliary.framework; path = QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework; sourceTree = "<group>"; };
-		04EACA5081964044E791AF6F6B2FF74B /* GDTUnifiedNativeAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedNativeAdView.h; sourceTree = "<group>"; };
-		05F63513F1382DC8BC86B07134A583AC /* GDTSDKDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSDKDefines.h; sourceTree = "<group>"; };
-		072FF47798B03616C9CD9B73337DB5B3 /* BUNativeAdsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeAdsManager.h; sourceTree = "<group>"; };
-		080039762F95DC18192D40E0C1793933 /* KSCUFeedPage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUFeedPage.h; sourceTree = "<group>"; };
-		088C07992923AB882197CB967A27C654 /* BUJSBCommand.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUJSBCommand.h; sourceTree = "<group>"; };
-		099ED5826F774DC1BC231F7614848ACD /* GDTUnifiedBannerAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedBannerAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		09F57C6D189C8EAAD5B8CE830A7A3F93 /* BUEnvironment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUEnvironment.h; sourceTree = "<group>"; };
-		0D0CECA45155AD277567E5ADB2996025 /* BU_SDImageGIFCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageGIFCoder.h; sourceTree = "<group>"; };
-		0D9FB04F53E73D8C4B914EA5D313341A /* BU_SDImageAPNGCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageAPNGCoder.h; sourceTree = "<group>"; };
-		0E1BA419407E5E58D1DFB1D96F332ACD /* KSAdSplashDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSplashDelegate.h; sourceTree = "<group>"; };
-		0E8CC612C7A36A6DB1B3403ED8CD3EC2 /* BURewardedVideoModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BURewardedVideoModel.h; sourceTree = "<group>"; };
-		0F4C0572D230D0D98EA9766B46A3CC84 /* KSFeedAdsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSFeedAdsManager.h; sourceTree = "<group>"; };
-		11EC6AC2DABD9CB471AC5C308E200A10 /* NSString+BUAddtion.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+BUAddtion.h"; sourceTree = "<group>"; };
-		122B6A8ABCDD5B0F79E9F6A41BB43CA5 /* BUVideoAdReportor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUVideoAdReportor.h; sourceTree = "<group>"; };
-		13BD51DD5D23A868CB45800944C0C35A /* QBAdDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QBAdDelegate.h; path = QBAdSDK_iOS/Classes/QBAdDelegate.h; sourceTree = "<group>"; };
-		14D27BFD2E280F4FE50EC508A95A16FE /* BUMopubAdMarkUpDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUMopubAdMarkUpDelegate.h; sourceTree = "<group>"; };
+		054A14DFCFBD9F4CE6EDD9B08DB4BA49 /* QUBIanSDKConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIanSDKConfig.h; path = QBAdSDK_iOS/Classes/QUBIanSDKConfig.h; sourceTree = "<group>"; };
 		152608C4F9D2DB1DCF9DBC8D0599F8F8 /* Pods_QBAdSDK_iOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QBAdSDK_iOS_Tests.framework; path = "Pods-QBAdSDK_iOS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1694C8DB8B146303F4185CFE415B2D8F /* KSAdShowDirection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdShowDirection.h; sourceTree = "<group>"; };
-		17C78AA7D5A8A7CDC7F96821B5F234EF /* BU_SDImageLoadersManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageLoadersManager.h; sourceTree = "<group>"; };
 		17CAAAFF64A5BB19F345F4E504A365F4 /* Pods-QBAdSDK_iOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QBAdSDK_iOS_Tests-umbrella.h"; sourceTree = "<group>"; };
-		18B4CFB05B94E13A59FAE220E0B63BAE /* libquBianSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libquBianSDK.a; path = QBAdSDK_iOS/Classes/libquBianSDK.a; sourceTree = "<group>"; };
-		19401A5702030DBF99433BA1FD1D944D /* BU_SDAnimatedImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDAnimatedImageView.h; sourceTree = "<group>"; };
-		195BCB682D7356BC5F386ECDB49504CD /* KSCUMediaPlayerReportManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUMediaPlayerReportManager.h; sourceTree = "<group>"; };
-		1A468288D15A77722A6661FEEE8E9C91 /* GDTUnifiedInterstitialAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedInterstitialAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		1A6DEEBB5D767A33066C061CB308663D /* NSObject+BUSafeKVO.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+BUSafeKVO.h"; sourceTree = "<group>"; };
-		1B73A0B2D6312255E5079524842C6C3D /* KSAdSplashInteractDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSplashInteractDelegate.h; sourceTree = "<group>"; };
-		1B862843E2418F65C769DB53A691EB4F /* BUJSInjector.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUJSInjector.h; sourceTree = "<group>"; };
-		1C209B17F2257B0EB48DADFFE720863E /* KSNativeAdRelatedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSNativeAdRelatedView.h; sourceTree = "<group>"; };
-		1C9CE83C741BD73B0858801C55901A69 /* KSDrawAdsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSDrawAdsManager.h; sourceTree = "<group>"; };
-		1CCE2F2266562ACF61438B6B8D106B99 /* BU_SDWebImageError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageError.h; sourceTree = "<group>"; };
-		1D159DE08EC3C3C130723A8AFA898964 /* HMDBUBacktraceLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBUBacktraceLog.h; sourceTree = "<group>"; };
-		1D7472CEA10D5C10A7530382FB9EBAF6 /* GDTNativeExpressProAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTNativeExpressProAdView.h; sourceTree = "<group>"; };
-		1EB0C134236C514DFD9AD9EF48709BEB /* BU_SDmetamacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDmetamacros.h; sourceTree = "<group>"; };
-		1F25A092C4410DBB13A8CB0C6FF0DD47 /* KSAdSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSDK.h; sourceTree = "<group>"; };
-		1FD70A824589A529392FCC1F4023EFC7 /* BUConditionTracker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUConditionTracker.h; sourceTree = "<group>"; };
-		1FFA0974B61C337711572FD3CA44CCA6 /* BU_SDImageCachesManagerOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCachesManagerOperation.h; sourceTree = "<group>"; };
-		201025F6B8E2126F72B0FE2F9F089B71 /* BUDownloadSpeedServer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUDownloadSpeedServer.h; sourceTree = "<group>"; };
-		204D1F3F127524AEF302BF5E9390BAC9 /* BU_SDImageIOCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageIOCoder.h; sourceTree = "<group>"; };
-		205E6D40EE681DA48F6F05D4F7759560 /* KSVideoAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSVideoAdView.h; sourceTree = "<group>"; };
-		21F3A336B08F6D2E4A80C094D7391320 /* BU_SDImageFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageFrame.h; sourceTree = "<group>"; };
-		22015A5710CB3CFD6C4781E1AB83DDA3 /* UIButton+BUWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+BUWebCache.h"; sourceTree = "<group>"; };
-		235A69DBBAD2D22EE376F193EC555CFA /* HMDBUHeaderLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBUHeaderLog.h; sourceTree = "<group>"; };
-		237A71F840121EAF0C1AD28C2D3D8498 /* KSCUOuterController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUOuterController.h; sourceTree = "<group>"; };
-		2386890C897969D398B5FB92353A1E00 /* QUBIanSDKConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIanSDKConfig.h; path = QBAdSDK_iOS/Classes/QUBIanSDKConfig.h; sourceTree = "<group>"; };
 		255E5EA3FBE56571A7AF50D80C118DC5 /* Pods-QBAdSDK_iOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBAdSDK_iOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		27310E9D7381D84863697AA21E5A9D33 /* BUJSBAuthorization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUJSBAuthorization.h; sourceTree = "<group>"; };
-		290F37672342F3A5DF9B7460671270E7 /* KSCUMediaPlayerReportAPI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUMediaPlayerReportAPI.h; sourceTree = "<group>"; };
-		299A0F1E6CDC235F7C646A9E28402935 /* NSData+BUImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSData+BUImageContentType.h"; sourceTree = "<group>"; };
-		2AE0C24D65FA34F7A15259D25EA1A2A9 /* BUThreadSafeDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUThreadSafeDictionary.h; sourceTree = "<group>"; };
-		2C04DA9CB5B52673A6615061134406D3 /* NSUserDefaults+BUCrypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSUserDefaults+BUCrypt.h"; sourceTree = "<group>"; };
-		2C796117AD48468A456BF3DC7620C774 /* HMDBULog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBULog.h; sourceTree = "<group>"; };
-		2CB1B6FF0A2BAC01041C92B47F6F19D1 /* BU_SDImageLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageLoader.h; sourceTree = "<group>"; };
 		2CDEA99575C4431C3197AC495D9B5DF1 /* Pods-QBAdSDK_iOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-QBAdSDK_iOS_Tests.modulemap"; sourceTree = "<group>"; };
-		2DBC5B35DFC41FDFFD93D8BC86A7585A /* BUBase64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUBase64.h; sourceTree = "<group>"; };
-		2DF40C403CE36419E0B4B19A80B98E32 /* QUBIADSdkCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIADSdkCenter.h; path = QBAdSDK_iOS/Classes/QUBIADSdkCenter.h; sourceTree = "<group>"; };
-		2E0D84EF0DE3C22ED145849D641D8FAF /* GDTNativeExpressProAdManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTNativeExpressProAdManager.h; sourceTree = "<group>"; };
-		2E15560C9480A0F8BB3EC6CA719A9FAD /* BUNativeExpressBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressBannerView.h; sourceTree = "<group>"; };
-		2ECCB903081B07E0F20B0B30A8474359 /* QBAdSDK_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QBAdSDK_iOS.debug.xcconfig; sourceTree = "<group>"; };
-		310CB252A2313AEED109C85F91F3CC9E /* KSAdImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdImage.h; sourceTree = "<group>"; };
-		31A0858C4A5744E11039351CEE9C7915 /* UIColor+BUTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+BUTheme.h"; sourceTree = "<group>"; };
-		31D0F0D64C5579CD4A6FA211EC04EE08 /* BUAdSDK.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = BUAdSDK.bundle; path = QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle; sourceTree = "<group>"; };
-		34CE6AD03171D2C494BADAE473E95893 /* QBAdSDK_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QBAdSDK_iOS.release.xcconfig; sourceTree = "<group>"; };
-		373CE9DA202BE73AA71D55FD9A004676 /* BUPersonalizationPrompts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPersonalizationPrompts.h; sourceTree = "<group>"; };
-		37C3FDD5787B880FD733BCE11DEEE596 /* BUUIResponderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUUIResponderHelper.h; sourceTree = "<group>"; };
 		37E2369069FF979379F6695344BE09E4 /* Pods-QBAdSDK_iOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBAdSDK_iOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		38050FA3F4FB7D871173336990BF3447 /* HMDBUAppleBacktracesLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBUAppleBacktracesLog.h; sourceTree = "<group>"; };
-		397D81177A654BC4C5E828FEFA299ECC /* BUPlayerPublicDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayerPublicDefine.h; sourceTree = "<group>"; };
-		3C400B058C38006645C201BE74108E1F /* BUMaterialMeta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUMaterialMeta.h; sourceTree = "<group>"; };
-		3F62BA2395FB15A75BD41E517A4E846E /* BU_SDImageCacheDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCacheDefine.h; sourceTree = "<group>"; };
-		3FA421F6D7B4DD30C78277BB7AFFA088 /* BUAdSlot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSlot.h; sourceTree = "<group>"; };
-		41AC3B6EB219C61F4434218E7116F7FB /* BUPlayerItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayerItem.h; sourceTree = "<group>"; };
-		41C5E8DF66B4F336C7EF5E8E50AB63D8 /* BU_SDWebImageOptionsProcessor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageOptionsProcessor.h; sourceTree = "<group>"; };
-		42890166CF5673994DAC18FD3BF0C1A4 /* GDTAdTestSetting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTAdTestSetting.h; sourceTree = "<group>"; };
-		42B6A1854E1C15511C8CA196E51CE145 /* BU_SDImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCache.h; sourceTree = "<group>"; };
-		438B5BFE883FCC5E230BC94219790999 /* NSTimer+BUBlockSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSTimer+BUBlockSupport.h"; sourceTree = "<group>"; };
-		43A6E79098EB6E519F0FEF689E3B8BC2 /* KSAdSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KSAdSDK-umbrella.h"; sourceTree = "<group>"; };
-		44016556217605B3F2EF452EFC960262 /* BUSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUSize.h; sourceTree = "<group>"; };
-		4460F7DE8CF152882C073454330C08E3 /* BUThreadSafeMutableArray.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUThreadSafeMutableArray.h; sourceTree = "<group>"; };
-		4498DF3B1BF82C7AB00B7993161CF26B /* BUNativeExpressInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressInterstitialAd.h; sourceTree = "<group>"; };
-		4498E333F2DB4B6B930622E9A05A057F /* KSAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAd.h; sourceTree = "<group>"; };
-		45622B17321DD03C1B2A7A066916CE45 /* GDTSplashAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSplashAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		46089987461BBB81EC42E10614566772 /* BUNativeExpressAdViewDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressAdViewDelegate.h; sourceTree = "<group>"; };
-		461EDAB5B496725478E75C6894CD1592 /* BUDislikeWords.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUDislikeWords.h; sourceTree = "<group>"; };
-		486F123C64A08027085D9D7382D89303 /* UIImageView+BUWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+BUWebCache.h"; sourceTree = "<group>"; };
-		48C1409B4EE4183A9A4C70A918BFD98E /* BUVideoPrefetchManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUVideoPrefetchManager.h; sourceTree = "<group>"; };
-		49B3D956ADAC0DFE1CBD234764B735CF /* BUPersistence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPersistence.h; sourceTree = "<group>"; };
-		4A431FE66BC9F38FED0066B6EB9A0A9F /* BUTimer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUTimer.h; sourceTree = "<group>"; };
-		4ACF1710F2ABF6DD1EDE2BAFCF2E0514 /* BU_SDAsyncBlockOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDAsyncBlockOperation.h; sourceTree = "<group>"; };
-		4CCA8C5285A14C7CE98E940EA24F4DAD /* GDTUnifiedNativeAdDataObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedNativeAdDataObject.h; sourceTree = "<group>"; };
-		4D54593E1DFB718748E764A173A67751 /* BUPlayerSettingsProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayerSettingsProtocol.h; sourceTree = "<group>"; };
-		4D6A94F7ACE1700051519274B2EDDDD6 /* GDTMediaView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTMediaView.h; sourceTree = "<group>"; };
-		4E142B9A9B25F14AF4220C9A7A962836 /* BUNativeExpressFullscreenVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressFullscreenVideoAd.h; sourceTree = "<group>"; };
-		4F408F5FA04C26085862E459D1EE1402 /* KSAdSplashManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSplashManager.h; sourceTree = "<group>"; };
-		524F82F7C5625DC46115BCA24F946EF2 /* BU_SDMemoryCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDMemoryCache.h; sourceTree = "<group>"; };
-		5330B7E564E6C8D32F5BEC5D361A2843 /* BU_SDWebImageDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageDefine.h; sourceTree = "<group>"; };
-		53CB1B0BFF0740C9E62D4D20ABA58C5A /* GDTVideoConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTVideoConfig.h; sourceTree = "<group>"; };
-		552EE5B16149511972584A610EC03760 /* HeimdallrBUEmbedConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HeimdallrBUEmbedConfig.h; sourceTree = "<group>"; };
-		55310D721F970CECAED796CB26B7EB82 /* KSFeedAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSFeedAd.h; sourceTree = "<group>"; };
-		5781E1EBBAE2F2059BEA7F35E845473D /* BU_ZFPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_ZFPlayer.h; sourceTree = "<group>"; };
-		592559D6D7EEADB22E2DEDBC07C27B9B /* UIView+BUAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+BUAdditions.h"; sourceTree = "<group>"; };
-		5AD351940C92058E18CE80D61ED5F39A /* UIView+BUWebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+BUWebCacheOperation.h"; sourceTree = "<group>"; };
-		5BDDC26871E362F9D5DCFF9F8EA2B954 /* BUFullscreenVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUFullscreenVideoAd.h; sourceTree = "<group>"; };
-		5D3DECC3C3E9CCC774CA1DDB4484F127 /* BUNativeAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeAd.h; sourceTree = "<group>"; };
-		5D8653A110FCD98928AD1EF6C8A4AF8D /* NSObject+BUUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+BUUtils.h"; sourceTree = "<group>"; };
-		5DEFBCF041E026D143236E63A7B8F08D /* BU_ZFPlayerControlView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_ZFPlayerControlView.h; sourceTree = "<group>"; };
-		5EC044BD7D03B3DF384DB753463C17FF /* BU_SDWebImageTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageTransition.h; sourceTree = "<group>"; };
-		5EC04E0955F8C884659C9558D6D10C7E /* NSDictionary+BUUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+BUUtilities.h"; sourceTree = "<group>"; };
-		5EF50C3E23036DD57AA25AA4780EB816 /* NSJSONSerialization+BUSafeSerializaiton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSJSONSerialization+BUSafeSerializaiton.h"; sourceTree = "<group>"; };
-		5F3F87C761FD2A5C5B902FE9C1F2C2CB /* BU_AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFSecurityPolicy.h; sourceTree = "<group>"; };
-		5F51C5D344814FC4057B62C0C8874ED4 /* BU_SDWebImageCacheSerializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageCacheSerializer.h; sourceTree = "<group>"; };
+		37FC0E5AE016A0234568AA128C3ABB4E /* libquBianSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libquBianSDK.a; path = QBAdSDK_iOS/Classes/libquBianSDK.a; sourceTree = "<group>"; };
+		4CA878C844794645A4CCBEB4E3129D27 /* QBAdSDK_iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = QBAdSDK_iOS.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5E9270420A35F95B0584BABC4B4778F0 /* KSAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KSAdSDK.framework; path = QBAdSDK_iOS/thirdSdkSource/kusiShou/KSAdSDK.framework; sourceTree = "<group>"; };
 		61650FBB977B2025897DE56D9185828B /* Pods-QBAdSDK_iOS_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QBAdSDK_iOS_Tests-Info.plist"; sourceTree = "<group>"; };
-		61B521C70C4CAB145D3A0F7380E0FADC /* BU_AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFHTTPSessionManager.h; sourceTree = "<group>"; };
-		625DCDFB6E5963C6C9E07B25634CE00D /* GDTNativeExpressAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTNativeExpressAd.h; sourceTree = "<group>"; };
-		63075C1265CD0BFFFA47EC37C72C5A00 /* KSCUImageTextFeed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUImageTextFeed.h; sourceTree = "<group>"; };
+		64F1152F905E4ACF170C12DE95AB34E7 /* BUAdSDK.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = BUAdSDK.bundle; path = QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle; sourceTree = "<group>"; };
 		65A192C35A768E55DDFB09E244951638 /* Pods-QBAdSDK_iOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QBAdSDK_iOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6901B8EEA82698EAE5BEF5EA08AC20CA /* KSCUEntryElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUEntryElement.h; sourceTree = "<group>"; };
-		698412212A13537C397DA2FF71549BC0 /* BU_SDWebImageCacheKeyFilter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageCacheKeyFilter.h; sourceTree = "<group>"; };
-		69DA8503566F1233DD06440C34AE48B0 /* UIImage+BUForceDecode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUForceDecode.h"; sourceTree = "<group>"; };
-		6A3AD29258DD7C73A281431ED1F819B9 /* BUUserAgentHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUUserAgentHelper.h; sourceTree = "<group>"; };
-		6BF1E55F520FBCFB6DCB912C91BE2C8B /* BUDislike.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUDislike.h; sourceTree = "<group>"; };
-		6DB48F7D48F759772E63513661B62E61 /* KSAdPlayableDemoViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdPlayableDemoViewController.h; sourceTree = "<group>"; };
-		6DEDFA28B349BC24A564DA16573F3673 /* QBAdSDK_iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = QBAdSDK_iOS.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		6E54ED167E24047994A084082D3C99D9 /* BUDislikeReportor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUDislikeReportor.h; sourceTree = "<group>"; };
-		6EDA4DA5B05DD18BB2B472A0C3F8F357 /* BU_SDImageAPNGCoderInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageAPNGCoderInternal.h; sourceTree = "<group>"; };
-		709DE4319249FFAB215CEDAB5FF21013 /* BUNativeExpressAdManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressAdManager.h; sourceTree = "<group>"; };
-		70B60737376A4D84CC7533B80EDC84DC /* GDTLogoView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTLogoView.h; sourceTree = "<group>"; };
-		710D1C41AD7E8306E1B4ECA524FCE56A /* KSCUEmbedAdConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUEmbedAdConfig.h; sourceTree = "<group>"; };
-		71E989AE9CEFD5E60D21EA117B8B9A9E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		6D74DCC34A04033742EF4C07348C14AB /* QBAdSDK_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QBAdSDK_iOS.debug.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		73349B06FCA5A27AEF851DA49BB78780 /* KSCUContentPage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUContentPage.h; sourceTree = "<group>"; };
-		749A8E88F12B78CA08A966CEDCB5CEEC /* BU_SDWebImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageDownloader.h; sourceTree = "<group>"; };
-		75755E1DE729A7E4B098839B347FE14D /* BUJSBForwarding.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUJSBForwarding.h; sourceTree = "<group>"; };
-		7690B971B62CF0694545A7B482F2763D /* BUDynamicPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUDynamicPlugin.h; sourceTree = "<group>"; };
-		786EAB410BEF25B515CA4F5264F95E8E /* BU_AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		78E29F18FC6C6ED61FCC85C4A224A31D /* BUAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUAdSDK.framework; path = QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework; sourceTree = "<group>"; };
-		79AAADD31D1F3C3639A9AE798C836643 /* BUVideoAdDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUVideoAdDelegate.h; sourceTree = "<group>"; };
-		7BA0419B7CF2622382AA4DF4039468E1 /* BULogManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BULogManager.h; sourceTree = "<group>"; };
-		7BBABDAB5C6F03C26012819A53E76F46 /* BUNetworkRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNetworkRequest.h; sourceTree = "<group>"; };
-		7C35725EF2D39B3EE5DDEDE8989DA6B2 /* BU_SDImageCachesManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCachesManager.h; sourceTree = "<group>"; };
-		7D2F3FD407AC7002D538B3DA1D8B32BA /* GDTHybridAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTHybridAd.h; sourceTree = "<group>"; };
-		7DCACE565223ECE92F95B53BCCFFD403 /* KSAdExportManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdExportManager.h; sourceTree = "<group>"; };
-		7EB252D333B55C0FAC45302E4A2094CF /* GDTExpressInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTExpressInterstitialAd.h; sourceTree = "<group>"; };
-		7F3416F1C3732921C0888ABBDFACBB1E /* BUVideoAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUVideoAdView.h; sourceTree = "<group>"; };
-		7F85C928040CC9665E7F25D2C7D2B5E4 /* GDTNativeExpressRewardVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTNativeExpressRewardVideoAd.h; sourceTree = "<group>"; };
-		7FAFC32D7E6944A7F891F5141ED1A51F /* GDTAdParams.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTAdParams.h; sourceTree = "<group>"; };
-		7FC4A0F961A75C0DB4FAACDC8F1F93A9 /* BUCommonMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUCommonMacros.h; sourceTree = "<group>"; };
-		7FE81EA6C492939F0CF08BB875594581 /* GDTRewardVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTRewardVideoAd.h; sourceTree = "<group>"; };
-		808B190C2F662CD50F7A6AC38676CB34 /* UIWindow+BUUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIWindow+BUUtilities.h"; sourceTree = "<group>"; };
-		813044C15F5E5B019DECC4E0304B8CBF /* KSAdSDKManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSDKManager.h; sourceTree = "<group>"; };
-		81D38E214CEBEC741AA7519B553F35C0 /* UIImage+BUMultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUMultiFormat.h"; sourceTree = "<group>"; };
-		82287312B607DE8E052C0BD3F2C3C4E0 /* KSAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KSAdSDK.framework; path = QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework; sourceTree = "<group>"; };
-		826BE6EAC47E885EC6B404D12096FE35 /* GDTBaseAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTBaseAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		849CABA9129BCE12CE953BF90164DA14 /* BUZipCommon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUZipCommon.h; sourceTree = "<group>"; };
-		84B81EA98379A60806FE94F869D27AAD /* BUWKWebView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUWKWebView.h; sourceTree = "<group>"; };
-		86684D182F11302A4F9D1ED4EAE26D9D /* BUCacheManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUCacheManager.h; sourceTree = "<group>"; };
-		87EDDEB243C4B379C35C7BAE315B9DE5 /* BU_SDAnimatedImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDAnimatedImage.h; sourceTree = "<group>"; };
-		88BD017D70E078C18B891DDA3C2EADED /* QUBIanH5ActiveAdCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIanH5ActiveAdCenter.h; path = QBAdSDK_iOS/Classes/QUBIanH5ActiveAdCenter.h; sourceTree = "<group>"; };
-		88CBCB1ED2992A86E474FFE373251097 /* BUNativeExpressRewardedVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressRewardedVideoAd.h; sourceTree = "<group>"; };
-		8923B59786819716C45488116E3E2053 /* BUImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUImage.h; sourceTree = "<group>"; };
-		8971A4E7837E6CE49C262BD75F53FF26 /* GDTUnifiedNativeAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedNativeAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		8A0A0E46EAAC81520E3DF1184866DB39 /* GDTSplashAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSplashAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		8B3C66ACAEC4047A8EF95C386AC74EF7 /* BU_SDInternalMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDInternalMacros.h; sourceTree = "<group>"; };
-		8B3D9386FA06A6E0CCFAA5381B701CEF /* BUAdSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDK.h; sourceTree = "<group>"; };
-		8BD57E085993DB750F5FFB43AB90CAA8 /* BU_SDImageCacheConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCacheConfig.h; sourceTree = "<group>"; };
-		8D85EAF5EB3AF18885C06266FA9A56E5 /* KSRewardedVideoModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSRewardedVideoModel.h; sourceTree = "<group>"; };
-		8E7019F4FA9A7E0E85348985C27E13A3 /* UIImage+BUMetadata.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUMetadata.h"; sourceTree = "<group>"; };
-		8E9CEE7006A9EA2191EC2E59BD5598F4 /* BUImageUtility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUImageUtility.h; sourceTree = "<group>"; };
-		8F2455F1AC3A9D0DD93FFE1D51BDB9D0 /* UIImage+BUTransform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUTransform.h"; sourceTree = "<group>"; };
-		8F7CD878F7FA117E5023093586563016 /* NSButton+BUWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSButton+BUWebCache.h"; sourceTree = "<group>"; };
-		8F9AF7887773F0FC8EBE7EB694EFDE6C /* GDTUnifiedNativeAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedNativeAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		90F4083FF0491F401275D4977CF0D71A /* KSCUHorizontalFeed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUHorizontalFeed.h; sourceTree = "<group>"; };
-		914DE03B8DFC4B91BF62D0B40C432B35 /* BU_SDImageGraphics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageGraphics.h; sourceTree = "<group>"; };
-		917A20E5FCB8675412C4E8CB77031BE3 /* KSAdPos.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdPos.h; sourceTree = "<group>"; };
-		92414A88CF43E134B555BF27CBA64AE0 /* BU_SDWebImagePrefetcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImagePrefetcher.h; sourceTree = "<group>"; };
-		928F2ABED19991E61A3E4BE1CAF27065 /* BU_SDImageAssetManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageAssetManager.h; sourceTree = "<group>"; };
-		9468BC6D51EA8836F08EF2612C296D86 /* NSBezierPath+BURoundedCorners.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSBezierPath+BURoundedCorners.h"; sourceTree = "<group>"; };
-		94819258CF7EBE82F4973F673663D826 /* UIImage+BUGIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUGIF.h"; sourceTree = "<group>"; };
-		9736B192411268C951E9687063FA9171 /* BUWebViewProgressView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUWebViewProgressView.h; sourceTree = "<group>"; };
-		97A9B374B234E71E965F6A78A5E644E1 /* BU_SDWeakProxy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWeakProxy.h; sourceTree = "<group>"; };
-		98ADA9ED340F6B70CA08A90D9A5608EB /* BUTNCServiceManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUTNCServiceManager.h; sourceTree = "<group>"; };
-		98C0A5A4A34317F3A913F13CDC1FA241 /* KSCUMediaPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUMediaPlayer.h; sourceTree = "<group>"; };
-		9993F425B877D5FCB19B67B8C431C9FD /* BUAdSDKTestToolManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKTestToolManager.h; sourceTree = "<group>"; };
-		9AED1B964E4EC5BE28A9E736E4E84CC1 /* KSRewardedVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSRewardedVideoAd.h; sourceTree = "<group>"; };
-		9B13B3C370E2700A7D84D81535148062 /* HMDBUEmbedAddressRange.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBUEmbedAddressRange.h; sourceTree = "<group>"; };
-		9C7EA8B0A5A6682F10136D07A72761B8 /* BUScreenHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUScreenHelper.h; sourceTree = "<group>"; };
+		92F20228CBD96BB04C03493DB6E3ED46 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		97EFFD5CB9E11C655DC1ACEE88A8BE2D /* QBAdDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QBAdDelegate.h; path = QBAdSDK_iOS/Classes/QBAdDelegate.h; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9DE3B192C95A772952F32CD008AE3644 /* KSAdSplashViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSplashViewController.h; sourceTree = "<group>"; };
-		9E626D31155809244C5DA32881411FCA /* KSFullscreenVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSFullscreenVideoAd.h; sourceTree = "<group>"; };
-		9F6E0807EA0334611B25602846575040 /* BUGifImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUGifImageView.h; sourceTree = "<group>"; };
-		9FAF0B0C25BFF53FA58C80494B40E5A2 /* BURouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BURouter.h; sourceTree = "<group>"; };
-		9FFC0A41FB3E8C67AADD05176C430DEA /* BUAdSDKPlayableToolManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKPlayableToolManager.h; sourceTree = "<group>"; };
-		A037AD5B0BE4B960EDA0915D31ECB247 /* GDTSDKConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSDKConfig.h; sourceTree = "<group>"; };
-		A07C1276D1D1EFE9CB4A917387570857 /* libGDTMobSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libGDTMobSDK.a; path = QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a; sourceTree = "<group>"; };
 		A081708D98FD76C8DF21E2F56B212950 /* Pods-QBAdSDK_iOS_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBAdSDK_iOS_Tests-resources.sh"; sourceTree = "<group>"; };
-		A1A38D97E3DDD8178C8625909E398782 /* BU_SDWebImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageManager.h; sourceTree = "<group>"; };
-		A2156274FC5B83DD5554E7ADF1A6F392 /* BUReachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUReachability.h; sourceTree = "<group>"; };
-		A23C1CE8D67BC11640721BDD7F6BD867 /* UIImage+BUMemoryCacheCost.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+BUMemoryCacheCost.h"; sourceTree = "<group>"; };
-		A26D702847D4C93BCF8C08B8CD1EAD49 /* BU_SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
-		A2F55B234CECCE977BA3167F010C9B0A /* BUNativeExpressSplashView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressSplashView.h; sourceTree = "<group>"; };
-		A43C4025BA1A4710BC68212093426850 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		A4C82493FBD87FE51ABC41AADA1751F2 /* BUAdSmartlookManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSmartlookManager.h; sourceTree = "<group>"; };
-		A95D4D1D54B157E4B3BD8345943DF23A /* BUFoundationAddress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUFoundationAddress.h; sourceTree = "<group>"; };
-		AD10F385573C8570D9A5D6B81169F748 /* BUFoundation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUFoundation.h; sourceTree = "<group>"; };
-		AD2F0AAFEDE43C3FE4CCBF9B3747A7E5 /* BUPlayerInternalDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayerInternalDefine.h; sourceTree = "<group>"; };
-		AD4DFF807CDC67554F8C1B4F17D2E561 /* BUSplashAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUSplashAdView.h; sourceTree = "<group>"; };
-		ADBF5F4BC619220F35FA6CD9864125D4 /* KSDrawAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSDrawAd.h; sourceTree = "<group>"; };
-		ADD773F33FACD561FB511B119461226C /* BUPlayerDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayerDefine.h; sourceTree = "<group>"; };
-		AE737854B60C810D9FB69F1250A57740 /* BU_SDImageCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCoder.h; sourceTree = "<group>"; };
-		AE91E8EA93B831698D23E3A218B84A4D /* BU_SDImageTransformer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageTransformer.h; sourceTree = "<group>"; };
-		AF1A693BBF52ECFD55E23F5ED0F3ADC8 /* UIImageView+BUHighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+BUHighlightedWebCache.h"; sourceTree = "<group>"; };
-		AF8811E38C15C411568C6E7231B1D6BD /* BU_SDWebImageDownloaderConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageDownloaderConfig.h; sourceTree = "<group>"; };
-		AFAC8373417800F720707749B41EEB40 /* BU_SDWebImageDownloaderRequestModifier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageDownloaderRequestModifier.h; sourceTree = "<group>"; };
-		B0229A50CF5CF4C44331B0844607777C /* GDTUnifiedBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedBannerView.h; sourceTree = "<group>"; };
-		B05A9F8EAE3081DC49B81F089911112F /* KSAdInteractionType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdInteractionType.h; sourceTree = "<group>"; };
-		B0A817876C3AB83F24FE9BAE6F2A191C /* BUAdSDKManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKManager.h; sourceTree = "<group>"; };
-		B1247A29585CEB300EF69C1501F81815 /* BU_AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFURLSessionManager.h; sourceTree = "<group>"; };
-		B13CDC889A36147A691F668F94B87B9D /* BUBaseRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUBaseRequest.h; sourceTree = "<group>"; };
-		B1B5CFCDE2A8996322E63D308D94B1AD /* BUJSBDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUJSBDefine.h; sourceTree = "<group>"; };
-		B529D1B4CFCC47AB5A0269380B2B398C /* KSCUCallBackProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUCallBackProtocol.h; sourceTree = "<group>"; };
-		B959D48E2012CAEB2A6DBF58BF58CCDD /* BU_SDImageCoderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCoderHelper.h; sourceTree = "<group>"; };
-		BA8535ECE30671D4EAA997FAC4871826 /* UIViewController+BUUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+BUUtilities.h"; sourceTree = "<group>"; };
-		BB711AE806F38108DEC7DF47C7CBBDE7 /* KSAdUserInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdUserInfo.h; sourceTree = "<group>"; };
-		BBFE70889EA8B633B7E4511A57B73B3E /* KSAdSDKError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSAdSDKError.h; sourceTree = "<group>"; };
-		BC2C827B1BBD09646165724D9D104FD9 /* BUPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUPlayer.h; sourceTree = "<group>"; };
-		BE02DC5A26684341F47FC443600EB477 /* BU_AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		BEDD986E3D7C540DD57A66A0471C3D8A /* BUZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUZipArchive.h; sourceTree = "<group>"; };
-		BF0129C829D4160ED29863C9187D157C /* BURexxarEngine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BURexxarEngine.h; sourceTree = "<group>"; };
-		C04627FFA797181FC9EB3645E2646E1D /* GDTUnifiedInterstitialAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedInterstitialAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		C1DA8E9F49628DB7B8324EC213C7D1CB /* BURewardedVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BURewardedVideoAd.h; sourceTree = "<group>"; };
-		C290960A4AF74BCEF6A40FB38997C42E /* BULogMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BULogMacros.h; sourceTree = "<group>"; };
-		C2C775521F15BCA2CE86CD56C115684D /* BUNativeAdRelatedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeAdRelatedView.h; sourceTree = "<group>"; };
-		C3D1145F8642A76F28E33207ED339360 /* BUWebViewDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUWebViewDefine.h; sourceTree = "<group>"; };
-		C5AC76532468C54450383FCEC99F417C /* UIView+BUWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+BUWebCache.h"; sourceTree = "<group>"; };
-		C6A8E66A05EC629CD33F2C15D0FF9276 /* GDTUnifiedNativeAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedNativeAd.h; sourceTree = "<group>"; };
-		C8560475BE8479B72D99CD57F9677054 /* KSVideoAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSVideoAd.h; sourceTree = "<group>"; };
-		C86D892879CB5B6985DD424FFCCA0A5A /* KSMaterialMeta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSMaterialMeta.h; sourceTree = "<group>"; };
-		CA8A8985B99B7C307215C34B21C6F8E5 /* NSKeyedArchiver+BUKeyedArchiver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSKeyedArchiver+BUKeyedArchiver.h"; sourceTree = "<group>"; };
-		CE5414B863DA0C63B81E24A0B205834A /* BUGifImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUGifImage.h; sourceTree = "<group>"; };
-		D0EFEC323501739B05299E18B136914C /* BUNativeExpressAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUNativeExpressAdView.h; sourceTree = "<group>"; };
-		D1C76B79EDDFB5A5777FA61DA1DD983D /* GDTRewardVideoAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTRewardVideoAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		D3B9A004DF3A53E14EA1482330C50465 /* BU_SDImageCodersManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDImageCodersManager.h; sourceTree = "<group>"; };
-		D521407714F392EFA5C2B34764372C3B /* BUAdSDKConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKConfiguration.h; sourceTree = "<group>"; };
-		D56FD55C7E59A29E33DF64C1DE280AFD /* BUTNCRequestParam.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUTNCRequestParam.h; sourceTree = "<group>"; };
-		D791DA2087B93044BFFE8A37C4B4AB78 /* GDTUnifiedBannerAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedBannerAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
+		A8498473F65E5E6615D644092DBC66E3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		A8CA6789949ABC10926EB0235C7EF843 /* libGDTMobSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libGDTMobSDK.a; path = QBAdSDK_iOS/thirdSdkSource/gdt/libGDTMobSDK.a; sourceTree = "<group>"; };
+		BF376A923BF80054E4AF4FAE3F736333 /* BUFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUFoundation.framework; path = QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUFoundation.framework; sourceTree = "<group>"; };
+		C66CA4EFECD632DC0F3C293347556A4E /* BUCNAuxiliary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUCNAuxiliary.framework; path = QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework; sourceTree = "<group>"; };
 		D96BF8EE2F67CA873875BC4C578E46D7 /* Pods-QBAdSDK_iOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBAdSDK_iOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		DDA0756DBA9DE272B38DFC06395F187F /* KSNativeAdsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSNativeAdsManager.h; sourceTree = "<group>"; };
-		DFC935EB357B06DE73D435F1C453AD5E /* KSCUHotspotDataProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUHotspotDataProtocol.h; sourceTree = "<group>"; };
-		E0A7137402BA94A6E8BFD95E68A0DC60 /* BU_SDAnimatedImageRep.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDAnimatedImageRep.h; sourceTree = "<group>"; };
-		E0C145D685728537A2D7016F110881DD /* GDTUnifiedInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTUnifiedInterstitialAd.h; sourceTree = "<group>"; };
-		E15ED91AA599762010B8AE228907BFC5 /* BU_AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_AFAutoPurgingImageCache.h; sourceTree = "<group>"; };
-		E19EC7FB34F82B7225326E1BBB0CE97C /* BUGeckoManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUGeckoManager.h; sourceTree = "<group>"; };
-		E2E04A700B3840D3260CCF67CBFEFEBE /* KSCUHotspotPage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUHotspotPage.h; sourceTree = "<group>"; };
-		E312484A723D45DFB6CD86A2568433F9 /* GDTRewardVideoAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTRewardVideoAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		E3C45F4A43C4DDD137BBA5572500AC8E /* BUAdSDKError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKError.h; sourceTree = "<group>"; };
-		E48A27F37685F1D688DE3419E4561078 /* BUGeckoPreloadManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUGeckoPreloadManager.h; sourceTree = "<group>"; };
-		E48CCF29951B69DC1501C3D8AFF431DF /* GDTLoadAdParams.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTLoadAdParams.h; sourceTree = "<group>"; };
-		E4D88862FA00577EDD7BD6D6153968E9 /* UIColor+BUHexString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+BUHexString.h"; sourceTree = "<group>"; };
-		E4F8C9439979C9435E0EBFEC35631C4F /* BU_SDAnimatedImageView+BUWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BU_SDAnimatedImageView+BUWebCache.h"; sourceTree = "<group>"; };
-		E66B734A437D4EF6B6051312F57FA375 /* KSNativeAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSNativeAd.h; sourceTree = "<group>"; };
-		E83BD51EAC8E7FDA4E6BC5CD8630D6F8 /* NSPointerArray+BUSafely.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSPointerArray+BUSafely.h"; sourceTree = "<group>"; };
+		E1519E71DDF9A865F4BBABBD40152527 /* QUBIADSdkCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIADSdkCenter.h; path = QBAdSDK_iOS/Classes/QUBIADSdkCenter.h; sourceTree = "<group>"; };
 		E85A74F0BE599250CA9B8C7596B79247 /* Pods-QBAdSDK_iOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-QBAdSDK_iOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		EA444209BA2F490668A13970D54710BA /* BU_SDWebImageIndicator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageIndicator.h; sourceTree = "<group>"; };
-		EC5E8783022110FD5BC8D14C73F9B46A /* GDTSplashAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSplashAd.h; sourceTree = "<group>"; };
-		ECD83FA10F6702B425404E53FC08C0E6 /* BUSplashZoomOutView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUSplashZoomOutView.h; sourceTree = "<group>"; };
-		ED8821E1FB7C700EE8932210A8F8F23A /* KSInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSInterstitialAd.h; sourceTree = "<group>"; };
-		EE923509CB2BAA29E9F42C0E298E6C7A /* KSCUContentPageDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUContentPageDelegate.h; sourceTree = "<group>"; };
-		EF7C1126C5C38D309CFF850A5BD75147 /* KSCUFeedEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUFeedEvent.h; sourceTree = "<group>"; };
-		EF9483718A82355B3734251CF6B54501 /* NSImage+BUCompatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSImage+BUCompatibility.h"; sourceTree = "<group>"; };
-		F08771C9DE24A68D48402F2E08022149 /* BU_SDWebImageOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDWebImageOperation.h; sourceTree = "<group>"; };
-		F48ECED07168C47462CD795263B7F4FD /* BU_SDDiskCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BU_SDDiskCache.h; sourceTree = "<group>"; };
-		F55EBAB8329005B8680932C9935CA7E3 /* KSCUMediaPlayerActionMeta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KSCUMediaPlayerActionMeta.h; sourceTree = "<group>"; };
-		F562C0F21ED22925A17D0B5B311628DF /* GDTSplashZoomOutView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTSplashZoomOutView.h; sourceTree = "<group>"; };
-		F7E5CF67E7EE32A1737A51E58DCC47F7 /* BUAdSDKDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BUAdSDKDefines.h; sourceTree = "<group>"; };
-		F90A8896C2766F3A4F4C0B5129FDEC9E /* GDTServerSideVerificationOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTServerSideVerificationOptions.h; sourceTree = "<group>"; };
-		F9C6965899A1F2570534EEE179462578 /* GDTNativeExpressAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GDTNativeExpressAdView.h; sourceTree = "<group>"; };
-		FAFDAA48D5BFE77B596813790D884C7F /* HMDBUImageLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HMDBUImageLog.h; sourceTree = "<group>"; };
-		FB446E5B25D6F624706F66E3CDFFD614 /* BUFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUFoundation.framework; path = QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUFoundation.framework; sourceTree = "<group>"; };
+		EEC8B4F26C8B43AD5D151C882D1370E5 /* BUAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BUAdSDK.framework; path = QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.framework; sourceTree = "<group>"; };
+		F27E8EE488678404CD4B4ACB640851ED /* QUBIanH5ActiveAdCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QUBIanH5ActiveAdCenter.h; path = QBAdSDK_iOS/Classes/QUBIanH5ActiveAdCenter.h; sourceTree = "<group>"; };
 		FB75CA18303B8E7C77F1D039E25F4A8E /* Pods-QBAdSDK_iOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QBAdSDK_iOS_Tests-dummy.m"; sourceTree = "<group>"; };
-		FCBC9E9476E40B715AF3755AFA3417D6 /* UIImageView+BU_ZFCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+BU_ZFCache.h"; sourceTree = "<group>"; };
-		FF849AA926FE54929339A379CB4B705E /* NSArray+BUUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSArray+BUUtilities.h"; sourceTree = "<group>"; };
+		FC9DAA483D74077E157B17D7B0EEE62D /* QBAdSDK_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QBAdSDK_iOS.release.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -336,145 +78,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		046036F73CAA9EF70B675245A8F5C4FF /* A */ = {
+		095463C015BEBFFF4048CF078CD2A732 /* QBAdSDK_iOS */ = {
 			isa = PBXGroup;
 			children = (
-				FC8F2D320782264A7D9B8F31B873D3D1 /* Headers */,
+				64F1152F905E4ACF170C12DE95AB34E7 /* BUAdSDK.bundle */,
+				97EFFD5CB9E11C655DC1ACEE88A8BE2D /* QBAdDelegate.h */,
+				E1519E71DDF9A865F4BBABBD40152527 /* QUBIADSdkCenter.h */,
+				F27E8EE488678404CD4B4ACB640851ED /* QUBIanH5ActiveAdCenter.h */,
+				054A14DFCFBD9F4CE6EDD9B08DB4BA49 /* QUBIanSDKConfig.h */,
+				9E1C8BC8988BDD0723333DE59AC04B29 /* Frameworks */,
+				6139D01D64A52141410FBDA3CF7AA9E5 /* Pod */,
+				0D19C0959A7E047B2983CBA9414317DE /* Support Files */,
 			);
-			name = A;
-			path = A;
+			name = QBAdSDK_iOS;
+			path = ../..;
 			sourceTree = "<group>";
 		};
-		079B35C454C928C0EB76D8C51D4B31C0 /* Frameworks */ = {
+		0D19C0959A7E047B2983CBA9414317DE /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				78E29F18FC6C6ED61FCC85C4A224A31D /* BUAdSDK.framework */,
-				049DB3F4EAFE6E9B30A0F1F1DEC395F4 /* BUCNAuxiliary.framework */,
-				FB446E5B25D6F624706F66E3CDFFD614 /* BUFoundation.framework */,
-				82287312B607DE8E052C0BD3F2C3C4E0 /* KSAdSDK.framework */,
-				A07C1276D1D1EFE9CB4A917387570857 /* libGDTMobSDK.a */,
-				18B4CFB05B94E13A59FAE220E0B63BAE /* libquBianSDK.a */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		2073DAEF87C0ECF973A77D148AFAD867 /* KSAdSDK.framework */ = {
-			isa = PBXGroup;
-			children = (
-				2A7D2E8ABB7E7B7B0ED47D0BD999DBFC /* Headers */,
-				8EA36074CE1EAE7964B42D9E394E80F2 /* PrivateHeaders */,
-			);
-			name = KSAdSDK.framework;
-			path = KSAdSDK.framework;
-			sourceTree = "<group>";
-		};
-		24A245A45B9866D57AAE09C89A2F3392 /* kusiShou */ = {
-			isa = PBXGroup;
-			children = (
-				2073DAEF87C0ECF973A77D148AFAD867 /* KSAdSDK.framework */,
-			);
-			name = kusiShou;
-			path = kusiShou;
-			sourceTree = "<group>";
-		};
-		27A9C7CD2C5AF61A3A2896BD6B360A26 /* A */ = {
-			isa = PBXGroup;
-			children = (
-				F9CF9F31CA4B776FAB3B1ECEB19EA82F /* Headers */,
-			);
-			name = A;
-			path = A;
-			sourceTree = "<group>";
-		};
-		2A7D2E8ABB7E7B7B0ED47D0BD999DBFC /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				4498E333F2DB4B6B930622E9A05A057F /* KSAd.h */,
-				7DCACE565223ECE92F95B53BCCFFD403 /* KSAdExportManager.h */,
-				310CB252A2313AEED109C85F91F3CC9E /* KSAdImage.h */,
-				B05A9F8EAE3081DC49B81F089911112F /* KSAdInteractionType.h */,
-				6DB48F7D48F759772E63513661B62E61 /* KSAdPlayableDemoViewController.h */,
-				917A20E5FCB8675412C4E8CB77031BE3 /* KSAdPos.h */,
-				1F25A092C4410DBB13A8CB0C6FF0DD47 /* KSAdSDK.h */,
-				43A6E79098EB6E519F0FEF689E3B8BC2 /* KSAdSDK-umbrella.h */,
-				BBFE70889EA8B633B7E4511A57B73B3E /* KSAdSDKError.h */,
-				813044C15F5E5B019DECC4E0304B8CBF /* KSAdSDKManager.h */,
-				1694C8DB8B146303F4185CFE415B2D8F /* KSAdShowDirection.h */,
-				0E1BA419407E5E58D1DFB1D96F332ACD /* KSAdSplashDelegate.h */,
-				1B73A0B2D6312255E5079524842C6C3D /* KSAdSplashInteractDelegate.h */,
-				4F408F5FA04C26085862E459D1EE1402 /* KSAdSplashManager.h */,
-				9DE3B192C95A772952F32CD008AE3644 /* KSAdSplashViewController.h */,
-				BB711AE806F38108DEC7DF47C7CBBDE7 /* KSAdUserInfo.h */,
-				B529D1B4CFCC47AB5A0269380B2B398C /* KSCUCallBackProtocol.h */,
-				73349B06FCA5A27AEF851DA49BB78780 /* KSCUContentPage.h */,
-				EE923509CB2BAA29E9F42C0E298E6C7A /* KSCUContentPageDelegate.h */,
-				710D1C41AD7E8306E1B4ECA524FCE56A /* KSCUEmbedAdConfig.h */,
-				6901B8EEA82698EAE5BEF5EA08AC20CA /* KSCUEntryElement.h */,
-				EF7C1126C5C38D309CFF850A5BD75147 /* KSCUFeedEvent.h */,
-				080039762F95DC18192D40E0C1793933 /* KSCUFeedPage.h */,
-				00BE65BD1CB5D7DC3F037BED7AA52A06 /* KSCUFeedPageScrollViewDelegate.h */,
-				90F4083FF0491F401275D4977CF0D71A /* KSCUHorizontalFeed.h */,
-				DFC935EB357B06DE73D435F1C453AD5E /* KSCUHotspotDataProtocol.h */,
-				E2E04A700B3840D3260CCF67CBFEFEBE /* KSCUHotspotPage.h */,
-				63075C1265CD0BFFFA47EC37C72C5A00 /* KSCUImageTextFeed.h */,
-				237A71F840121EAF0C1AD28C2D3D8498 /* KSCUOuterController.h */,
-				ADBF5F4BC619220F35FA6CD9864125D4 /* KSDrawAd.h */,
-				1C9CE83C741BD73B0858801C55901A69 /* KSDrawAdsManager.h */,
-				55310D721F970CECAED796CB26B7EB82 /* KSFeedAd.h */,
-				0F4C0572D230D0D98EA9766B46A3CC84 /* KSFeedAdsManager.h */,
-				9E626D31155809244C5DA32881411FCA /* KSFullscreenVideoAd.h */,
-				ED8821E1FB7C700EE8932210A8F8F23A /* KSInterstitialAd.h */,
-				C86D892879CB5B6985DD424FFCCA0A5A /* KSMaterialMeta.h */,
-				E66B734A437D4EF6B6051312F57FA375 /* KSNativeAd.h */,
-				1C209B17F2257B0EB48DADFFE720863E /* KSNativeAdRelatedView.h */,
-				DDA0756DBA9DE272B38DFC06395F187F /* KSNativeAdsManager.h */,
-				9AED1B964E4EC5BE28A9E736E4E84CC1 /* KSRewardedVideoAd.h */,
-				8D85EAF5EB3AF18885C06266FA9A56E5 /* KSRewardedVideoModel.h */,
-				049CCDC8E92110312B2569B6A971871E /* KSSplashAdView.h */,
-				C8560475BE8479B72D99CD57F9677054 /* KSVideoAd.h */,
-				205E6D40EE681DA48F6F05D4F7759560 /* KSVideoAdView.h */,
-			);
-			name = Headers;
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		2FD3071710D83118AB4FED73F761E650 /* Versions */ = {
-			isa = PBXGroup;
-			children = (
-				046036F73CAA9EF70B675245A8F5C4FF /* A */,
-			);
-			name = Versions;
-			path = Versions;
-			sourceTree = "<group>";
-		};
-		3484411DEA9EA4E98D766941946FF3CD /* thirdSdkSource */ = {
-			isa = PBXGroup;
-			children = (
-				72C708D52464CFF69A814E1126788385 /* chuanSanJIa */,
-				C7F0850028402335DD6ACB20FC990F1D /* gdt */,
-				24A245A45B9866D57AAE09C89A2F3392 /* kusiShou */,
-			);
-			name = thirdSdkSource;
-			path = QBAdSDK_iOS/Classes/thirdSdkSource;
-			sourceTree = "<group>";
-		};
-		48B26064A636D64842F0F4689694F911 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				2ECCB903081B07E0F20B0B30A8474359 /* QBAdSDK_iOS.debug.xcconfig */,
-				34CE6AD03171D2C494BADAE473E95893 /* QBAdSDK_iOS.release.xcconfig */,
+				6D74DCC34A04033742EF4C07348C14AB /* QBAdSDK_iOS.debug.xcconfig */,
+				FC9DAA483D74077E157B17D7B0EEE62D /* QBAdSDK_iOS.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/QBAdSDK_iOS";
-			sourceTree = "<group>";
-		};
-		546590C783475AFE1198EB13FA0883C9 /* BUCNAuxiliary.framework */ = {
-			isa = PBXGroup;
-			children = (
-				924E3D6B5AB03A59E4C6005E0ED23248 /* Versions */,
-			);
-			name = BUCNAuxiliary.framework;
-			path = BUCNAuxiliary.framework;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -483,6 +110,16 @@
 				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		6139D01D64A52141410FBDA3CF7AA9E5 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				92F20228CBD96BB04C03493DB6E3ED46 /* LICENSE */,
+				4CA878C844794645A4CCBEB4E3129D27 /* QBAdSDK_iOS.podspec */,
+				A8498473F65E5E6615D644092DBC66E3 /* README.md */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		6F0BB752844F463D32C44EE9440AADAF /* Pods-QBAdSDK_iOS_Tests */ = {
@@ -503,17 +140,6 @@
 			path = "Target Support Files/Pods-QBAdSDK_iOS_Tests";
 			sourceTree = "<group>";
 		};
-		72C708D52464CFF69A814E1126788385 /* chuanSanJIa */ = {
-			isa = PBXGroup;
-			children = (
-				9D4A5FF00C566CCB5F4517537B37F134 /* BUAdSDK.framework */,
-				546590C783475AFE1198EB13FA0883C9 /* BUCNAuxiliary.framework */,
-				C9E276FE7BBBB0F2A188FF1AD5550CCE /* BUFoundation.framework */,
-			);
-			name = chuanSanJIa;
-			path = chuanSanJIa;
-			sourceTree = "<group>";
-		};
 		815C61BA318AD9EB155A72CF805CF786 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -522,102 +148,24 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		892346188773771F15FE3EC2C6776B86 /* Versions */ = {
+		9E1C8BC8988BDD0723333DE59AC04B29 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				27A9C7CD2C5AF61A3A2896BD6B360A26 /* A */,
+				EEC8B4F26C8B43AD5D151C882D1370E5 /* BUAdSDK.framework */,
+				C66CA4EFECD632DC0F3C293347556A4E /* BUCNAuxiliary.framework */,
+				BF376A923BF80054E4AF4FAE3F736333 /* BUFoundation.framework */,
+				5E9270420A35F95B0584BABC4B4778F0 /* KSAdSDK.framework */,
+				A8CA6789949ABC10926EB0235C7EF843 /* libGDTMobSDK.a */,
+				37FC0E5AE016A0234568AA128C3ABB4E /* libquBianSDK.a */,
 			);
-			name = Versions;
-			path = Versions;
-			sourceTree = "<group>";
-		};
-		8EA36074CE1EAE7964B42D9E394E80F2 /* PrivateHeaders */ = {
-			isa = PBXGroup;
-			children = (
-				98C0A5A4A34317F3A913F13CDC1FA241 /* KSCUMediaPlayer.h */,
-				F55EBAB8329005B8680932C9935CA7E3 /* KSCUMediaPlayerActionMeta.h */,
-				290F37672342F3A5DF9B7460671270E7 /* KSCUMediaPlayerReportAPI.h */,
-				195BCB682D7356BC5F386ECDB49504CD /* KSCUMediaPlayerReportManager.h */,
-			);
-			name = PrivateHeaders;
-			path = PrivateHeaders;
-			sourceTree = "<group>";
-		};
-		924E3D6B5AB03A59E4C6005E0ED23248 /* Versions */ = {
-			isa = PBXGroup;
-			children = (
-				D4528183999530028143D1D388BC1458 /* A */,
-			);
-			name = Versions;
-			path = Versions;
-			sourceTree = "<group>";
-		};
-		9D4A5FF00C566CCB5F4517537B37F134 /* BUAdSDK.framework */ = {
-			isa = PBXGroup;
-			children = (
-				892346188773771F15FE3EC2C6776B86 /* Versions */,
-			);
-			name = BUAdSDK.framework;
-			path = BUAdSDK.framework;
-			sourceTree = "<group>";
-		};
-		C7F0850028402335DD6ACB20FC990F1D /* gdt */ = {
-			isa = PBXGroup;
-			children = (
-				7FAFC32D7E6944A7F891F5141ED1A51F /* GDTAdParams.h */,
-				42890166CF5673994DAC18FD3BF0C1A4 /* GDTAdTestSetting.h */,
-				826BE6EAC47E885EC6B404D12096FE35 /* GDTBaseAdNetworkAdapterProtocol.h */,
-				7EB252D333B55C0FAC45302E4A2094CF /* GDTExpressInterstitialAd.h */,
-				7D2F3FD407AC7002D538B3DA1D8B32BA /* GDTHybridAd.h */,
-				E48CCF29951B69DC1501C3D8AFF431DF /* GDTLoadAdParams.h */,
-				70B60737376A4D84CC7533B80EDC84DC /* GDTLogoView.h */,
-				4D6A94F7ACE1700051519274B2EDDDD6 /* GDTMediaView.h */,
-				625DCDFB6E5963C6C9E07B25634CE00D /* GDTNativeExpressAd.h */,
-				F9C6965899A1F2570534EEE179462578 /* GDTNativeExpressAdView.h */,
-				2E0D84EF0DE3C22ED145849D641D8FAF /* GDTNativeExpressProAdManager.h */,
-				1D7472CEA10D5C10A7530382FB9EBAF6 /* GDTNativeExpressProAdView.h */,
-				7F85C928040CC9665E7F25D2C7D2B5E4 /* GDTNativeExpressRewardVideoAd.h */,
-				7FE81EA6C492939F0CF08BB875594581 /* GDTRewardVideoAd.h */,
-				E312484A723D45DFB6CD86A2568433F9 /* GDTRewardVideoAdNetworkAdapterProtocol.h */,
-				D1C76B79EDDFB5A5777FA61DA1DD983D /* GDTRewardVideoAdNetworkConnectorProtocol.h */,
-				A037AD5B0BE4B960EDA0915D31ECB247 /* GDTSDKConfig.h */,
-				05F63513F1382DC8BC86B07134A583AC /* GDTSDKDefines.h */,
-				F90A8896C2766F3A4F4C0B5129FDEC9E /* GDTServerSideVerificationOptions.h */,
-				EC5E8783022110FD5BC8D14C73F9B46A /* GDTSplashAd.h */,
-				8A0A0E46EAAC81520E3DF1184866DB39 /* GDTSplashAdNetworkAdapterProtocol.h */,
-				45622B17321DD03C1B2A7A066916CE45 /* GDTSplashAdNetworkConnectorProtocol.h */,
-				F562C0F21ED22925A17D0B5B311628DF /* GDTSplashZoomOutView.h */,
-				D791DA2087B93044BFFE8A37C4B4AB78 /* GDTUnifiedBannerAdNetworkAdapterProtocol.h */,
-				099ED5826F774DC1BC231F7614848ACD /* GDTUnifiedBannerAdNetworkConnectorProtocol.h */,
-				B0229A50CF5CF4C44331B0844607777C /* GDTUnifiedBannerView.h */,
-				E0C145D685728537A2D7016F110881DD /* GDTUnifiedInterstitialAd.h */,
-				C04627FFA797181FC9EB3645E2646E1D /* GDTUnifiedInterstitialAdNetworkAdapterProtocol.h */,
-				1A468288D15A77722A6661FEEE8E9C91 /* GDTUnifiedInterstitialAdNetworkConnectorProtocol.h */,
-				C6A8E66A05EC629CD33F2C15D0FF9276 /* GDTUnifiedNativeAd.h */,
-				4CCA8C5285A14C7CE98E940EA24F4DAD /* GDTUnifiedNativeAdDataObject.h */,
-				8971A4E7837E6CE49C262BD75F53FF26 /* GDTUnifiedNativeAdNetworkAdapterProtocol.h */,
-				8F9AF7887773F0FC8EBE7EB694EFDE6C /* GDTUnifiedNativeAdNetworkConnectorProtocol.h */,
-				04EACA5081964044E791AF6F6B2FF74B /* GDTUnifiedNativeAdView.h */,
-				53CB1B0BFF0740C9E62D4D20ABA58C5A /* GDTVideoConfig.h */,
-			);
-			name = gdt;
-			path = gdt;
-			sourceTree = "<group>";
-		};
-		C9E276FE7BBBB0F2A188FF1AD5550CCE /* BUFoundation.framework */ = {
-			isa = PBXGroup;
-			children = (
-				2FD3071710D83118AB4FED73F761E650 /* Versions */,
-			);
-			name = BUFoundation.framework;
-			path = BUFoundation.framework;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				D5AE79BAAAF254495060B5A881782095 /* Development Pods */,
+				EDC4EBEB3E2EFABE626E77470A874053 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				F053507B9F08E9F766E2BC985E043F79 /* Products */,
 				815C61BA318AD9EB155A72CF805CF786 /* Targets Support Files */,
@@ -632,64 +180,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D4528183999530028143D1D388BC1458 /* A */ = {
+		EDC4EBEB3E2EFABE626E77470A874053 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D62EA0F123534F47DB36F25C9B11A612 /* Headers */,
-			);
-			name = A;
-			path = A;
-			sourceTree = "<group>";
-		};
-		D5AE79BAAAF254495060B5A881782095 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				DE73BADA791A3FA7C52175F8EDAF3010 /* QBAdSDK_iOS */,
+				095463C015BEBFFF4048CF078CD2A732 /* QBAdSDK_iOS */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		D62EA0F123534F47DB36F25C9B11A612 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				01B87B6B1A8BB87F29A85D19EC7D2217 /* HeimdallrBUEmbed.h */,
-				552EE5B16149511972584A610EC03760 /* HeimdallrBUEmbedConfig.h */,
-				38050FA3F4FB7D871173336990BF3447 /* HMDBUAppleBacktracesLog.h */,
-				1D159DE08EC3C3C130723A8AFA898964 /* HMDBUBacktraceLog.h */,
-				9B13B3C370E2700A7D84D81535148062 /* HMDBUEmbedAddressRange.h */,
-				235A69DBBAD2D22EE376F193EC555CFA /* HMDBUHeaderLog.h */,
-				FAFDAA48D5BFE77B596813790D884C7F /* HMDBUImageLog.h */,
-				2C796117AD48468A456BF3DC7620C774 /* HMDBULog.h */,
-			);
-			name = Headers;
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		DE73BADA791A3FA7C52175F8EDAF3010 /* QBAdSDK_iOS */ = {
-			isa = PBXGroup;
-			children = (
-				31D0F0D64C5579CD4A6FA211EC04EE08 /* BUAdSDK.bundle */,
-				13BD51DD5D23A868CB45800944C0C35A /* QBAdDelegate.h */,
-				2DF40C403CE36419E0B4B19A80B98E32 /* QUBIADSdkCenter.h */,
-				88BD017D70E078C18B891DDA3C2EADED /* QUBIanH5ActiveAdCenter.h */,
-				2386890C897969D398B5FB92353A1E00 /* QUBIanSDKConfig.h */,
-				079B35C454C928C0EB76D8C51D4B31C0 /* Frameworks */,
-				E49FA253185A65E73AFAEC618F1A55F8 /* Pod */,
-				48B26064A636D64842F0F4689694F911 /* Support Files */,
-				3484411DEA9EA4E98D766941946FF3CD /* thirdSdkSource */,
-			);
-			name = QBAdSDK_iOS;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		E49FA253185A65E73AFAEC618F1A55F8 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				71E989AE9CEFD5E60D21EA117B8B9A9E /* LICENSE */,
-				6DEDFA28B349BC24A564DA16573F3673 /* QBAdSDK_iOS.podspec */,
-				A43C4025BA1A4710BC68212093426850 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		F053507B9F08E9F766E2BC985E043F79 /* Products */ = {
@@ -698,189 +194,6 @@
 				152608C4F9D2DB1DCF9DBC8D0599F8F8 /* Pods_QBAdSDK_iOS_Tests.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		F9CF9F31CA4B776FAB3B1ECEB19EA82F /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				8B3D9386FA06A6E0CCFAA5381B701CEF /* BUAdSDK.h */,
-				D521407714F392EFA5C2B34764372C3B /* BUAdSDKConfiguration.h */,
-				F7E5CF67E7EE32A1737A51E58DCC47F7 /* BUAdSDKDefines.h */,
-				E3C45F4A43C4DDD137BBA5572500AC8E /* BUAdSDKError.h */,
-				B0A817876C3AB83F24FE9BAE6F2A191C /* BUAdSDKManager.h */,
-				9FFC0A41FB3E8C67AADD05176C430DEA /* BUAdSDKPlayableToolManager.h */,
-				9993F425B877D5FCB19B67B8C431C9FD /* BUAdSDKTestToolManager.h */,
-				3FA421F6D7B4DD30C78277BB7AFFA088 /* BUAdSlot.h */,
-				A4C82493FBD87FE51ABC41AADA1751F2 /* BUAdSmartlookManager.h */,
-				6BF1E55F520FBCFB6DCB912C91BE2C8B /* BUDislike.h */,
-				6E54ED167E24047994A084082D3C99D9 /* BUDislikeReportor.h */,
-				461EDAB5B496725478E75C6894CD1592 /* BUDislikeWords.h */,
-				5BDDC26871E362F9D5DCFF9F8EA2B954 /* BUFullscreenVideoAd.h */,
-				E19EC7FB34F82B7225326E1BBB0CE97C /* BUGeckoManager.h */,
-				8923B59786819716C45488116E3E2053 /* BUImage.h */,
-				3C400B058C38006645C201BE74108E1F /* BUMaterialMeta.h */,
-				14D27BFD2E280F4FE50EC508A95A16FE /* BUMopubAdMarkUpDelegate.h */,
-				5D3DECC3C3E9CCC774CA1DDB4484F127 /* BUNativeAd.h */,
-				C2C775521F15BCA2CE86CD56C115684D /* BUNativeAdRelatedView.h */,
-				072FF47798B03616C9CD9B73337DB5B3 /* BUNativeAdsManager.h */,
-				709DE4319249FFAB215CEDAB5FF21013 /* BUNativeExpressAdManager.h */,
-				D0EFEC323501739B05299E18B136914C /* BUNativeExpressAdView.h */,
-				46089987461BBB81EC42E10614566772 /* BUNativeExpressAdViewDelegate.h */,
-				2E15560C9480A0F8BB3EC6CA719A9FAD /* BUNativeExpressBannerView.h */,
-				4E142B9A9B25F14AF4220C9A7A962836 /* BUNativeExpressFullscreenVideoAd.h */,
-				4498DF3B1BF82C7AB00B7993161CF26B /* BUNativeExpressInterstitialAd.h */,
-				88CBCB1ED2992A86E474FFE373251097 /* BUNativeExpressRewardedVideoAd.h */,
-				A2F55B234CECCE977BA3167F010C9B0A /* BUNativeExpressSplashView.h */,
-				373CE9DA202BE73AA71D55FD9A004676 /* BUPersonalizationPrompts.h */,
-				397D81177A654BC4C5E828FEFA299ECC /* BUPlayerPublicDefine.h */,
-				C1DA8E9F49628DB7B8324EC213C7D1CB /* BURewardedVideoAd.h */,
-				0E8CC612C7A36A6DB1B3403ED8CD3EC2 /* BURewardedVideoModel.h */,
-				44016556217605B3F2EF452EFC960262 /* BUSize.h */,
-				AD4DFF807CDC67554F8C1B4F17D2E561 /* BUSplashAdView.h */,
-				ECD83FA10F6702B425404E53FC08C0E6 /* BUSplashZoomOutView.h */,
-				79AAADD31D1F3C3639A9AE798C836643 /* BUVideoAdDelegate.h */,
-				122B6A8ABCDD5B0F79E9F6A41BB43CA5 /* BUVideoAdReportor.h */,
-				7F3416F1C3732921C0888ABBDFACBB1E /* BUVideoAdView.h */,
-			);
-			name = Headers;
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		FC8F2D320782264A7D9B8F31B873D3D1 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				E15ED91AA599762010B8AE228907BFC5 /* BU_AFAutoPurgingImageCache.h */,
-				61B521C70C4CAB145D3A0F7380E0FADC /* BU_AFHTTPSessionManager.h */,
-				5F3F87C761FD2A5C5B902FE9C1F2C2CB /* BU_AFSecurityPolicy.h */,
-				BE02DC5A26684341F47FC443600EB477 /* BU_AFURLRequestSerialization.h */,
-				786EAB410BEF25B515CA4F5264F95E8E /* BU_AFURLResponseSerialization.h */,
-				B1247A29585CEB300EF69C1501F81815 /* BU_AFURLSessionManager.h */,
-				87EDDEB243C4B379C35C7BAE315B9DE5 /* BU_SDAnimatedImage.h */,
-				E0A7137402BA94A6E8BFD95E68A0DC60 /* BU_SDAnimatedImageRep.h */,
-				19401A5702030DBF99433BA1FD1D944D /* BU_SDAnimatedImageView.h */,
-				E4F8C9439979C9435E0EBFEC35631C4F /* BU_SDAnimatedImageView+BUWebCache.h */,
-				4ACF1710F2ABF6DD1EDE2BAFCF2E0514 /* BU_SDAsyncBlockOperation.h */,
-				F48ECED07168C47462CD795263B7F4FD /* BU_SDDiskCache.h */,
-				0D9FB04F53E73D8C4B914EA5D313341A /* BU_SDImageAPNGCoder.h */,
-				6EDA4DA5B05DD18BB2B472A0C3F8F357 /* BU_SDImageAPNGCoderInternal.h */,
-				928F2ABED19991E61A3E4BE1CAF27065 /* BU_SDImageAssetManager.h */,
-				42B6A1854E1C15511C8CA196E51CE145 /* BU_SDImageCache.h */,
-				8BD57E085993DB750F5FFB43AB90CAA8 /* BU_SDImageCacheConfig.h */,
-				3F62BA2395FB15A75BD41E517A4E846E /* BU_SDImageCacheDefine.h */,
-				7C35725EF2D39B3EE5DDEDE8989DA6B2 /* BU_SDImageCachesManager.h */,
-				1FFA0974B61C337711572FD3CA44CCA6 /* BU_SDImageCachesManagerOperation.h */,
-				AE737854B60C810D9FB69F1250A57740 /* BU_SDImageCoder.h */,
-				B959D48E2012CAEB2A6DBF58BF58CCDD /* BU_SDImageCoderHelper.h */,
-				D3B9A004DF3A53E14EA1482330C50465 /* BU_SDImageCodersManager.h */,
-				21F3A336B08F6D2E4A80C094D7391320 /* BU_SDImageFrame.h */,
-				0D0CECA45155AD277567E5ADB2996025 /* BU_SDImageGIFCoder.h */,
-				0046593CC9370440B3A388FA8861E8C6 /* BU_SDImageGIFCoderInternal.h */,
-				914DE03B8DFC4B91BF62D0B40C432B35 /* BU_SDImageGraphics.h */,
-				204D1F3F127524AEF302BF5E9390BAC9 /* BU_SDImageIOCoder.h */,
-				2CB1B6FF0A2BAC01041C92B47F6F19D1 /* BU_SDImageLoader.h */,
-				17C78AA7D5A8A7CDC7F96821B5F234EF /* BU_SDImageLoadersManager.h */,
-				AE91E8EA93B831698D23E3A218B84A4D /* BU_SDImageTransformer.h */,
-				8B3C66ACAEC4047A8EF95C386AC74EF7 /* BU_SDInternalMacros.h */,
-				524F82F7C5625DC46115BCA24F946EF2 /* BU_SDMemoryCache.h */,
-				1EB0C134236C514DFD9AD9EF48709BEB /* BU_SDmetamacros.h */,
-				97A9B374B234E71E965F6A78A5E644E1 /* BU_SDWeakProxy.h */,
-				698412212A13537C397DA2FF71549BC0 /* BU_SDWebImageCacheKeyFilter.h */,
-				5F51C5D344814FC4057B62C0C8874ED4 /* BU_SDWebImageCacheSerializer.h */,
-				007476FFAE6C2C6531F50E747AE5CDEC /* BU_SDWebImageCompat.h */,
-				5330B7E564E6C8D32F5BEC5D361A2843 /* BU_SDWebImageDefine.h */,
-				749A8E88F12B78CA08A966CEDCB5CEEC /* BU_SDWebImageDownloader.h */,
-				AF8811E38C15C411568C6E7231B1D6BD /* BU_SDWebImageDownloaderConfig.h */,
-				A26D702847D4C93BCF8C08B8CD1EAD49 /* BU_SDWebImageDownloaderOperation.h */,
-				AFAC8373417800F720707749B41EEB40 /* BU_SDWebImageDownloaderRequestModifier.h */,
-				1CCE2F2266562ACF61438B6B8D106B99 /* BU_SDWebImageError.h */,
-				EA444209BA2F490668A13970D54710BA /* BU_SDWebImageIndicator.h */,
-				A1A38D97E3DDD8178C8625909E398782 /* BU_SDWebImageManager.h */,
-				F08771C9DE24A68D48402F2E08022149 /* BU_SDWebImageOperation.h */,
-				41C5E8DF66B4F336C7EF5E8E50AB63D8 /* BU_SDWebImageOptionsProcessor.h */,
-				92414A88CF43E134B555BF27CBA64AE0 /* BU_SDWebImagePrefetcher.h */,
-				5EC044BD7D03B3DF384DB753463C17FF /* BU_SDWebImageTransition.h */,
-				5781E1EBBAE2F2059BEA7F35E845473D /* BU_ZFPlayer.h */,
-				5DEFBCF041E026D143236E63A7B8F08D /* BU_ZFPlayerControlView.h */,
-				2DBC5B35DFC41FDFFD93D8BC86A7585A /* BUBase64.h */,
-				B13CDC889A36147A691F668F94B87B9D /* BUBaseRequest.h */,
-				86684D182F11302A4F9D1ED4EAE26D9D /* BUCacheManager.h */,
-				7FC4A0F961A75C0DB4FAACDC8F1F93A9 /* BUCommonMacros.h */,
-				1FD70A824589A529392FCC1F4023EFC7 /* BUConditionTracker.h */,
-				201025F6B8E2126F72B0FE2F9F089B71 /* BUDownloadSpeedServer.h */,
-				7690B971B62CF0694545A7B482F2763D /* BUDynamicPlugin.h */,
-				09F57C6D189C8EAAD5B8CE830A7A3F93 /* BUEnvironment.h */,
-				AD10F385573C8570D9A5D6B81169F748 /* BUFoundation.h */,
-				A95D4D1D54B157E4B3BD8345943DF23A /* BUFoundationAddress.h */,
-				E48A27F37685F1D688DE3419E4561078 /* BUGeckoPreloadManager.h */,
-				CE5414B863DA0C63B81E24A0B205834A /* BUGifImage.h */,
-				9F6E0807EA0334611B25602846575040 /* BUGifImageView.h */,
-				8E9CEE7006A9EA2191EC2E59BD5598F4 /* BUImageUtility.h */,
-				27310E9D7381D84863697AA21E5A9D33 /* BUJSBAuthorization.h */,
-				088C07992923AB882197CB967A27C654 /* BUJSBCommand.h */,
-				B1B5CFCDE2A8996322E63D308D94B1AD /* BUJSBDefine.h */,
-				75755E1DE729A7E4B098839B347FE14D /* BUJSBForwarding.h */,
-				1B862843E2418F65C769DB53A691EB4F /* BUJSInjector.h */,
-				C290960A4AF74BCEF6A40FB38997C42E /* BULogMacros.h */,
-				7BA0419B7CF2622382AA4DF4039468E1 /* BULogManager.h */,
-				7BBABDAB5C6F03C26012819A53E76F46 /* BUNetworkRequest.h */,
-				49B3D956ADAC0DFE1CBD234764B735CF /* BUPersistence.h */,
-				BC2C827B1BBD09646165724D9D104FD9 /* BUPlayer.h */,
-				ADD773F33FACD561FB511B119461226C /* BUPlayerDefine.h */,
-				AD2F0AAFEDE43C3FE4CCBF9B3747A7E5 /* BUPlayerInternalDefine.h */,
-				41AC3B6EB219C61F4434218E7116F7FB /* BUPlayerItem.h */,
-				4D54593E1DFB718748E764A173A67751 /* BUPlayerSettingsProtocol.h */,
-				A2156274FC5B83DD5554E7ADF1A6F392 /* BUReachability.h */,
-				BF0129C829D4160ED29863C9187D157C /* BURexxarEngine.h */,
-				9FAF0B0C25BFF53FA58C80494B40E5A2 /* BURouter.h */,
-				9C7EA8B0A5A6682F10136D07A72761B8 /* BUScreenHelper.h */,
-				0021A32B1550E75DC2C7DF773C094F8E /* BUStaticPlugin.h */,
-				2AE0C24D65FA34F7A15259D25EA1A2A9 /* BUThreadSafeDictionary.h */,
-				4460F7DE8CF152882C073454330C08E3 /* BUThreadSafeMutableArray.h */,
-				4A431FE66BC9F38FED0066B6EB9A0A9F /* BUTimer.h */,
-				D56FD55C7E59A29E33DF64C1DE280AFD /* BUTNCRequestParam.h */,
-				98ADA9ED340F6B70CA08A90D9A5608EB /* BUTNCServiceManager.h */,
-				37C3FDD5787B880FD733BCE11DEEE596 /* BUUIResponderHelper.h */,
-				6A3AD29258DD7C73A281431ED1F819B9 /* BUUserAgentHelper.h */,
-				48C1409B4EE4183A9A4C70A918BFD98E /* BUVideoPrefetchManager.h */,
-				C3D1145F8642A76F28E33207ED339360 /* BUWebViewDefine.h */,
-				9736B192411268C951E9687063FA9171 /* BUWebViewProgressView.h */,
-				84B81EA98379A60806FE94F869D27AAD /* BUWKWebView.h */,
-				BEDD986E3D7C540DD57A66A0471C3D8A /* BUZipArchive.h */,
-				849CABA9129BCE12CE953BF90164DA14 /* BUZipCommon.h */,
-				FF849AA926FE54929339A379CB4B705E /* NSArray+BUUtilities.h */,
-				9468BC6D51EA8836F08EF2612C296D86 /* NSBezierPath+BURoundedCorners.h */,
-				8F7CD878F7FA117E5023093586563016 /* NSButton+BUWebCache.h */,
-				299A0F1E6CDC235F7C646A9E28402935 /* NSData+BUImageContentType.h */,
-				5EC04E0955F8C884659C9558D6D10C7E /* NSDictionary+BUUtilities.h */,
-				EF9483718A82355B3734251CF6B54501 /* NSImage+BUCompatibility.h */,
-				5EF50C3E23036DD57AA25AA4780EB816 /* NSJSONSerialization+BUSafeSerializaiton.h */,
-				CA8A8985B99B7C307215C34B21C6F8E5 /* NSKeyedArchiver+BUKeyedArchiver.h */,
-				1A6DEEBB5D767A33066C061CB308663D /* NSObject+BUSafeKVO.h */,
-				5D8653A110FCD98928AD1EF6C8A4AF8D /* NSObject+BUUtils.h */,
-				E83BD51EAC8E7FDA4E6BC5CD8630D6F8 /* NSPointerArray+BUSafely.h */,
-				11EC6AC2DABD9CB471AC5C308E200A10 /* NSString+BUAddtion.h */,
-				438B5BFE883FCC5E230BC94219790999 /* NSTimer+BUBlockSupport.h */,
-				2C04DA9CB5B52673A6615061134406D3 /* NSUserDefaults+BUCrypt.h */,
-				22015A5710CB3CFD6C4781E1AB83DDA3 /* UIButton+BUWebCache.h */,
-				E4D88862FA00577EDD7BD6D6153968E9 /* UIColor+BUHexString.h */,
-				31A0858C4A5744E11039351CEE9C7915 /* UIColor+BUTheme.h */,
-				69DA8503566F1233DD06440C34AE48B0 /* UIImage+BUForceDecode.h */,
-				94819258CF7EBE82F4973F673663D826 /* UIImage+BUGIF.h */,
-				A23C1CE8D67BC11640721BDD7F6BD867 /* UIImage+BUMemoryCacheCost.h */,
-				8E7019F4FA9A7E0E85348985C27E13A3 /* UIImage+BUMetadata.h */,
-				81D38E214CEBEC741AA7519B553F35C0 /* UIImage+BUMultiFormat.h */,
-				8F2455F1AC3A9D0DD93FFE1D51BDB9D0 /* UIImage+BUTransform.h */,
-				FCBC9E9476E40B715AF3755AFA3417D6 /* UIImageView+BU_ZFCache.h */,
-				AF1A693BBF52ECFD55E23F5ED0F3ADC8 /* UIImageView+BUHighlightedWebCache.h */,
-				486F123C64A08027085D9D7382D89303 /* UIImageView+BUWebCache.h */,
-				592559D6D7EEADB22E2DEDBC07C27B9B /* UIView+BUAdditions.h */,
-				C5AC76532468C54450383FCEC99F417C /* UIView+BUWebCache.h */,
-				5AD351940C92058E18CE80D61ED5F39A /* UIView+BUWebCacheOperation.h */,
-				BA8535ECE30671D4EAA997FAC4871826 /* UIViewController+BUUtilities.h */,
-				808B190C2F662CD50F7A6AC38676CB34 /* UIWindow+BUUtilities.h */,
-			);
-			name = Headers;
-			path = Headers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -909,7 +222,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				20CACAD3A40B0AA4DEECF6169F42EA75 /* PBXTargetDependency */,
+				E4B3CA98BD75D8EB07A4C013AEA94788 /* PBXTargetDependency */,
 			);
 			name = "Pods-QBAdSDK_iOS_Tests";
 			productName = "Pods-QBAdSDK_iOS_Tests";
@@ -966,11 +279,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		20CACAD3A40B0AA4DEECF6169F42EA75 /* PBXTargetDependency */ = {
+		E4B3CA98BD75D8EB07A4C013AEA94788 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = QBAdSDK_iOS;
 			target = 3A5F90E76B43776616C621E655ADE757 /* QBAdSDK_iOS */;
-			targetProxy = 35B2137B6C2620B2A300D3FD93A758EF /* PBXContainerItemProxy */;
+			targetProxy = 69B7422783417A318A3342B10632E862 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1137,7 +450,7 @@
 		};
 		827D4B7E772B8E04A0EA6AD93F16CD2A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2ECCB903081B07E0F20B0B30A8474359 /* QBAdSDK_iOS.debug.xcconfig */;
+			baseConfigurationReference = 6D74DCC34A04033742EF4C07348C14AB /* QBAdSDK_iOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1184,7 +497,7 @@
 		};
 		D6B8B5A8A734BAC2F57B8B16409999D9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 34CE6AD03171D2C494BADAE473E95893 /* QBAdSDK_iOS.release.xcconfig */;
+			baseConfigurationReference = FC9DAA483D74077E157B17D7B0EEE62D /* QBAdSDK_iOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

@@ -193,7 +193,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-QBAdSDK_iOS_Tests/Pods-QBAdSDK_iOS_Tests-resources.sh",
-				"${PODS_ROOT}/../../QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle",
+				"${PODS_ROOT}/../../QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -211,7 +211,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-QBAdSDK_iOS_Tests/Pods-QBAdSDK_iOS_Tests-frameworks.sh",
-				"${PODS_ROOT}/../../QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework",
+				"${PODS_ROOT}/../../QBAdSDK_iOS/thirdSdkSource/kusiShou/KSAdSDK.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (

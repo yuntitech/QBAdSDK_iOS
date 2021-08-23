@@ -1,1 +1,0 @@
-../../../../../QBAdSDK_iOS/Classes/thirdSdkSource/gdt/GDTNativeExpressRewardVideoAd.h

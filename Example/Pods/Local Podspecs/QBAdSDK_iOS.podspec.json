@@ -1,6 +1,6 @@
 {
   "name": "QBAdSDK_iOS",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "QBAdSDK for iOS",
   "description": "QBAdSDK for iOS",
   "homepage": "https://github.com/yuntitech/QBAdSDK_iOS",
@@ -13,22 +13,59 @@
   },
   "source": {
     "git": "https://github.com/yuntitech/QBAdSDK_iOS",
-    "tag": "0.1.1"
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "11.0"
   },
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "WebKit",
+    "MediaPlayer",
+    "CoreLocation",
+    "AdSupport",
+    "CoreMedia",
+    "AVFoundation",
+    "CoreTelephony",
+    "StoreKit",
+    "SystemConfiguration",
+    "MobileCoreServices",
+    "CoreMotion",
+    "Accelerate",
+    "AudioToolbox",
+    "JavaScriptCore",
+    "Security",
+    "CoreImage",
+    "AudioToolbox",
+    "ImageIO",
+    "QuartzCore",
+    "CoreGraphics",
+    "CoreText"
+  ],
+  "libraries": [
+    "c++",
+    "resolv",
+    "z",
+    "sqlite3",
+    "bz2",
+    "xml2",
+    "iconv",
+    "c++abi"
+  ],
   "source_files": "QBAdSDK_iOS/Classes/**/*.{h,m}",
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
   "vendored_libraries": [
     "QBAdSDK_iOS/Classes/libquBianSDK.a",
-    "QBAdSDK_iOS/Classes/thirdSdkSource/gdt/libGDTMobSDK.a"
+    "QBAdSDK_iOS/thirdSdkSource/gdt/libGDTMobSDK.a"
   ],
-  "resources": "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle",
+  "resources": "QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.bundle",
   "vendored_frameworks": [
-    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUAdSDK.framework",
-    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework",
-    "QBAdSDK_iOS/Classes/thirdSdkSource/chuanSanJIa/BUFoundation.framework",
-    "QBAdSDK_iOS/Classes/thirdSdkSource/kusiShou/KSAdSDK.framework"
-  ],
-  "static_framework": true
+    "QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUAdSDK.framework",
+    "QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUCNAuxiliary.framework",
+    "QBAdSDK_iOS/thirdSdkSource/chuanSanJIa/BUFoundation.framework",
+    "QBAdSDK_iOS/thirdSdkSource/kusiShou/KSAdSDK.framework"
+  ]
 }
