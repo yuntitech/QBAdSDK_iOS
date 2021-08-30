@@ -14,7 +14,7 @@ typedef void(^QBConfigBlock)(BOOL success);
 @interface QUBIanSDKConfig : NSObject
 
 +(instancetype)getDefaultInstance;
--(void)setAppBundleId:(NSString *)bundleID AppID:(NSString *)appId callback:(QBConfigBlock)block;
+-(void)setAppID:(NSString *)appId callback:(QBConfigBlock)block;
 @end
 
 NS_ASSUME_NONNULL_END

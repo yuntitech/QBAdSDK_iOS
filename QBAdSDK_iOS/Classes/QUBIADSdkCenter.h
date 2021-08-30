@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "QBAdDelegate.h"
 
-#define qbSdkVersion @"gc_2.1.2"
+#define qbSdkVersion @"gcK_2.2.2"
 
 typedef NS_ENUM(NSInteger, QBAdShowDirection) {
-    QBAdShowDirection_Vertical         =           0,
-    QBAdShowDirection_Horizontal,
+    QBAdShowDirection_Vertical         =           0,  //竖屏
+    QBAdShowDirection_Horizontal,                       //横屏
 };
 
 NS_ASSUME_NONNULL_BEGIN
@@ -78,7 +78,13 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param channelVersion 渠道版本号(可传nil，但是有渠道号的时候不能为nil)
 /// @param rootViewController 调用界面.
 -(void) qb_showBannerAd:(NSString *)postionId channelNum:(NSString *)channelNum channelVersion:(NSString *)channelVersion rootViewController:(UIViewController *)rootViewController bannerframe:(CGRect)bannerFrame;
-
+/// banner广告调用
+/// 广告加载到superview上
+/// @param postionId 广告位ID
+/// @param channelNum 渠道号(可传nil)
+/// @param channelVersion 渠道版本号(可传nil，但是有渠道号的时候不能为nil)
+/// @param rootViewController 调用界面.
+-(void) qb_showBannerAd:(NSString *)postionId channelNum:(NSString *)channelNum channelVersion:(NSString *)channelVersion rootViewController:(UIViewController *)rootViewController bannerframe:(CGRect)bannerFrame bannerSuperView:(UIView*)superview;
 
 /***************信息流广告广告调用方法*******************/
 /// 信息流广告广告调用
@@ -91,8 +97,6 @@ NS_ASSUME_NONNULL_BEGIN
 - (CGFloat)qb_heightForNativeAd:(id)adData;
 //获取cell
 - (UITableViewCell *)qb_tableView:(UITableView *)tableView cellForForNativeAd:(id)adData IndexPath:(NSIndexPath *)indexPath;
-//百度SDK 曝光上报
--(void)sendVisibleImpressionData:(id)data;
 
 
 /***************激励视频广告调用方法*******************/
