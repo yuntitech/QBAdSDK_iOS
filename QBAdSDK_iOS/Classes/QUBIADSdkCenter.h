@@ -85,6 +85,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param channelVersion 渠道版本号(可传nil，但是有渠道号的时候不能为nil)
 /// @param rootViewController 调用界面.
 -(void) qb_showBannerAd:(NSString *)postionId channelNum:(NSString *)channelNum channelVersion:(NSString *)channelVersion rootViewController:(UIViewController *)rootViewController bannerframe:(CGRect)bannerFrame bannerSuperView:(UIView*)superview;
+//移除banner广告
+-(void)removeBannerAd;
+
 
 /***************信息流广告广告调用方法*******************/
 /// 信息流广告广告调用
