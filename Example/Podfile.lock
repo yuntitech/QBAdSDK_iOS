@@ -1,5 +1,5 @@
 PODS:
-  - QBAdSDK_iOS (0.1.3)
+  - QBAdSDK_iOS (0.1.5)
 
 DEPENDENCIES:
   - QBAdSDK_iOS (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  QBAdSDK_iOS: 79b0a08ce182d917f0e25e8ffed8af2534764412
+  QBAdSDK_iOS: 9116b5c29c0b00fd2e17bfe3e1bbdaf0f850cd67
 
 PODFILE CHECKSUM: fab8a2b7dfc758dc355bb798c40c852640ab68c2
 
